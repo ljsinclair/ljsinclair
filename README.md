@@ -2,6 +2,10 @@
 
 Sounds like the opening spiel to an addiction confession, doesn't it? And in my case, there's some truth to that. I get quite twitchy if I go too long between arranging words in a pleasing order. And there's no twelve-step programme for this kind of addiction, let me tell you.
 
+* Click [Wiki](https://github.com/ljsinclair/ljsinclair/wiki) for opinion and reviews
+* Raise an [Issue](https://github.com/ljsinclair/ljsinclair/issues) if you want to chat (you'll need a Github account)
+* Or go to [Linkedin](https://www.linkedin.com/in/ljsinclair/) if you want to see my dry as a desert professional profile
+
 ## The right word, in the right place, at the right time
 
 That's the one-line summary for marketing purposes, which will allegedly make people's eyes light up and their wallets open.
@@ -25,7 +29,7 @@ Bottom line: Planning is not a joke; you'll save time, money and perhaps your re
 
 Up to you, really.
 
-FYI: If you want a pro marketer, you could do worse than to talk to Ryan Smith at [The Access Agency](https://www.theaccessagency.com.au/)
+**FYI**: If you want a pro marketer, you could do worse than to talk to Ryan Smith at [The Access Agency](https://www.theaccessagency.com.au/)
 
 ## But why isn't it pretty?
 
