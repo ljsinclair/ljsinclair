@@ -1,10 +1,8 @@
+| [Wiki](https://github.com/ljsinclair/ljsinclair/wiki) | [Writing](https://github.com/ljsinclair#the-right-word-in-the-right-place-at-the-right-time) | [Design](https://github.com/ljsinclair#but-why-isnt-it-pretty) | [Contact](mailto:projects@ljsinclair.net) | [Linkedin](https://www.linkedin.com/in/ljsinclair/) |
+
 # I'm LJ Sinclair, and I'm a writer
 
 Sounds like the opening spiel to an addiction confession, doesn't it? And in my case, there's some truth to that. I get quite twitchy if I go too long between arranging words in a pleasing order. And there's no twelve-step programme for this kind of addiction, let me tell you.
-
-* Click [Wiki](https://github.com/ljsinclair/ljsinclair/wiki) for opinion and reviews
-* Raise an [Issue](https://github.com/ljsinclair/ljsinclair/issues) if you want to chat (you'll need a Github account)
-* Or go to [Linkedin](https://www.linkedin.com/in/ljsinclair/) if you want to see my dry as a desert professional profile
 
 ## The right word, in the right place, at the right time
 
