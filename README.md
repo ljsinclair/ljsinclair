@@ -25,6 +25,22 @@ Bottom line: Planning is not a joke; you'll save time, money and perhaps your re
 
 Up to you, really.
 
+FYI: If you want a pro marketer, you could do worse than to talk to Ryan Smith at [The Access Agency](https://www.theaccessagency.com.au/)
+
+## But why isn't it pretty?
+
+Simple really: I've decided to host the whole thing with GitHub.
+
+But deeper than that, the answer is very simple: I'm not a designer. I'm a writer.
+
+I've built sites with straight HTML/CSS, PHP, Wordpress, Jekyll and Zola. And in the majority of cases, I spend more time trying to hack the themes to do something useful than doing what I'm good at.
+
+I'd rather leave design to the professionals and concentrate what I'm good at.
+
+And there's a hidden benefit to you, dear visitor: you can see the writing for what it is, not distracted by flashy graphics, colours and javascript jiggery-pokery.
+
+But if you want a designer, I can definitely recommend [Manita Johnson](http://manita.com.au/)
+
 ## Currently working on
 
 | Summary | Description |
@@ -41,6 +57,3 @@ Up to you, really.
 | [uEducateUs website](https://ueducateus.com.au) | Copywriting and website for the uEducateUs product | Jekyll, BitBucket | Jan 2021 |
 | [uEducateUs knowledgebase](https://linkedsuccess.atlassian.net/wiki/spaces/UKB/overview) | KB for the uEducateUs product | Confluence | Jan 2021 |
 
----
-
-[1]  And by *engaging*, I don't mean ALL CAPS with FLASHING IMAGES)
