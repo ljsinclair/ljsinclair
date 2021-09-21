@@ -8,7 +8,10 @@ That's the one-line summary for marketing purposes, which will allegedly make pe
 
 Now, anyone can choose their words and type them in a word processor or in an email or on Twitter or Facebook. And I'd say this is the reason the world is in such a mess right now.
 
-If you want to clearly communicate your intentions, information in a respectful and engaging manner[^1] you need a writer. It doesn't have to be me, but it **does** need to be someone who knows how to determine answers to these questions:
+A qualified and experienced writer can help you avoid the pitfalls of communication, so you can clearly communicate in a respectful and engaging manner (and by *engaging* I don't mean ALL CAPS, FLASHING IMAGES or impossible to avoid popups). 
+
+You don't have to choose me, but whoever you do choose, you'll need answers to these basic questions:
+
 * Who -- who are you and who's the audience?
 * What -- what do you want to communicate?
 * Why -- why do you want to communicate this message, why now, why the tools, medium and other details.
@@ -16,15 +19,17 @@ If you want to clearly communicate your intentions, information in a respectful 
 * Where -- where's the writing going to go?
 * How -- how do you want it communicated (email, twitter, carrier pigeon, etc)
 
-Some people call this *the brief*, others *the specification* but it's worth doing. Planning is not a joke; you'll save time, money and perhaps your reputation if you stop and think things through.
+Some people call this *the brief*, others *the specification* but it's worth doing. 
 
-Just saying.
+Bottom line: Planning is not a joke; you'll save time, money and perhaps your reputation if you stop and think things through. Or you can throw your opinion onto Twitter and watch your life disintegrate.
+
+Up to you, really.
 
 ## Currently working on
 
 | Summary | Description |
 |---|---|
-| Chapter 21 | Book sitting at 50k words, with perhaps 3-4 chapters remaining. THis is from a standing start in March (plus 10 years of false starts and alternate storylines|
+| Chapter 21 | Book sitting at 50k words, with perhaps 3-4 chapters remaining. This is from a standing start in March 2021 (plus 10 years of false starts and alternate storylines|
 | **[Remember Me](https://github.com/ljsinclair/remember)** wiki | Knowledgebase for useful fixes, information and workarounds I've discovered over the years |
 | Second cup of chai | Will be in the microwave presently |
 
