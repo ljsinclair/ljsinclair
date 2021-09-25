@@ -1,4 +1,4 @@
-| [Wiki](https://github.com/ljsinclair/ljsinclair/wiki) | [Writing](https://github.com/ljsinclair#the-right-word-in-the-right-place-at-the-right-time) | [Design](https://github.com/ljsinclair#but-why-isnt-it-pretty) | [Contact](mailto:projects@ljsinclair.net) | [Linkedin](https://www.linkedin.com/in/ljsinclair/) |
+[Wiki](https://github.com/ljsinclair/ljsinclair/wiki) | [Contact](mailto:projects@ljsinclair.net) | [Linkedin](https://www.linkedin.com/in/ljsinclair/)
 
 # I'm LJ Sinclair, and I'm a writer
 
