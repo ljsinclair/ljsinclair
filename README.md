@@ -10,30 +10,15 @@ That's the one-line summary for marketing purposes, which will allegedly make pe
 
 Now, anyone can choose their words and type them in a word processor or in an email or on Twitter or Facebook. And I'd say this is the reason the world is in such a mess right now.
 
-A qualified and experienced writer can help you avoid the pitfalls of communication, so you can clearly communicate in a respectful and engaging manner (and by *engaging* I don't mean ALL CAPS, FLASHING IMAGES or impossible to avoid popups). 
+A qualified and experienced writer can help you avoid the pitfalls of communication, so you can clearly communicate in a respectful and engaging manner (and by *engaging* I don't mean ALL CAPS, FLASHING IMAGES or impossible to avoid popups).
 
-You don't have to choose me, but whoever you do choose, you'll need answers to these basic questions:
-
-* Who -- who are you and who's the audience?
-* What -- what do you want to communicate?
-* Why -- why do you want to communicate this message, why now, why the tools, medium and other details.
-* When -- when do you want people to know?
-* Where -- where's the writing going to go?
-* How -- how do you want it communicated (email, twitter, carrier pigeon, etc)
-
-Some people call this *the brief*, others *the specification* but it's worth doing. 
-
-Bottom line: Planning is not a joke; you'll save time, money and perhaps your reputation if you stop and think things through. Or you can throw your opinion onto Twitter and watch your life disintegrate.
-
-Up to you, really.
-
-**FYI**: If you want a pro marketer, you could do worse than to talk to Ryan Smith at [The Access Agency](https://www.theaccessagency.com.au/)
+[Read more](https://github.com/ljsinclair/ljsinclair/wiki/Professional-writing)
 
 ## But why isn't it pretty?
 
 Simple really: I've decided to host the whole thing with GitHub.
 
-But deeper than that, the answer is very simple: I'm not a designer. I'm a writer.
+But deeper than that, I'm a writer not a designer.
 
 I've built sites with straight HTML/CSS, PHP, Wordpress, Jekyll and Zola. And in the majority of cases, I spend more time trying to hack the themes to do something useful than doing what I'm good at.
 
