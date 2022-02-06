@@ -37,13 +37,14 @@ But if you want a designer, I can definitely recommend [Manita Johnson](http://m
 | Second cup of chai | Will be in the microwave presently |
 | Zendesk engineering docs | dogfooding their own Help Center tool for engineering documentation. |
 
-## On hold but returning soon
+## On hold but returning at some point
 
 | Project name | Description | Dependencies |
 |---|---|---|
 | Book2 | Collect ideas for book 2, and build a structure | Completion of book 1 |
 | Merge Dreamhost accounts | Move remaining sites from account A to account B, then shut down account A | Agreement on account B |
 | Clean up DH account leftovers | Leftover sites, databases and users from sites that have been retired or moved to other hosting | Finalize list of stuff to clean up |
+| Shift useful content from old website to Wiki | As it says on the box; find reusable, useful content in the old projectgotheek repo and insert into the Wiki. Then retire the original site and content |
 
 ## Past projects
 
