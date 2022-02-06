@@ -32,9 +32,10 @@ But if you want a designer, I can definitely recommend [Manita Johnson](http://m
 
 | Summary | Description |
 |---|---|
-| Chapter 21 | Book sitting at 50k words, with perhaps 3-4 chapters remaining. This is from a standing start in March 2021 (plus 10 years of false starts and alternate storylines|
+| Chapter 27 | Book sitting at 71k words, with perhaps 2 chapters remaining. This is from a standing start in March 2021 (plus 10 years of false starts and alternate storylines|
 | **[Remember Me](https://github.com/ljsinclair/remember)** wiki | Knowledgebase for useful fixes, information and workarounds I've discovered over the years |
 | Second cup of chai | Will be in the microwave presently |
+| Zendesk engineering docs | dogfooding their own Help Center tool for engineering documentation. |
 
 ### Past projects
 
