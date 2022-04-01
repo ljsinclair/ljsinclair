@@ -22,7 +22,7 @@ But deeper than that, I'm a writer not a designer.
 
 I've built sites with straight HTML/CSS, PHP, Wordpress, Jekyll and Zola. And in the majority of cases, I spend more time trying to hack the themes to do something useful than doing what I'm good at.
 
-I'd rather leave design to the professionals and concentrate what I'm good at.
+I'd rather leave design to the professionals.
 
 And there's a hidden benefit to you, dear visitor: you can see the writing for what it is, not distracted by flashy graphics, colours and javascript jiggery-pokery.
 
