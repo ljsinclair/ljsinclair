@@ -1,15 +1,6 @@
 ---
 title: "Stealing the crown jewels"
-sitemap: true
-author_profile: true
-toc: true
-header:
-  teaser: /assets/images/panel-mamori.jpg
-excerpt_separator: <!--more-->
-categories:
-  - nonfiction
-tags: [security]
-excerpt: "How to avoid losing your client's private data, and then your business..."
+date: 2019-08-08
 
 ---
 
