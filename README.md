@@ -2,33 +2,46 @@
 
 # I'm LJ Sinclair, and I'm a writer
 
-Sounds like the opening spiel to an addiction confession, doesn't it? And in my case, there's some truth to that. I get quite twitchy if I go too long between arranging words in a pleasing order. And there's no twelve-step programme for this kind of addiction, let me tell you.
+That sounds like the opening spiel to an addiction confession, doesn't it? And in my case, there's some truth to that. I get quite twitchy if I go too long between arranging words in a pleasing order. And there's no twelve-step programme for this kind of addiction, let me tell you.
 
 ## The right word, in the right place, at the right time
 
-That's the one-line summary for marketing purposes, which will allegedly make people's eyes light up and their wallets open.
+Anyone can type words into a word processor, email or social media with mixed results.
 
-Now, anyone can choose their words and type them in a word processor or in an email or on Twitter or Facebook. And I'd say this is the reason the world is in such a mess right now.
+But to communicate meaning without ambiguity, you need someone who knows how to:
 
-A qualified and experienced writer can help you avoid the pitfalls of communication, so you can clearly communicate in a respectful and engaging manner (and by *engaging* I don't mean ALL CAPS, FLASHING IMAGES or impossible to avoid popups).
+* establish the facts through direct research and working with subject matter experts
+* determine the audience
+* turn complex, ambiguous ideas into clear, easy to understand content
+* and do all this without leaning into the tropes of marketing, hard sell or manipulation
+
+To paraphrase  [Charlie Taub (Vadim Glowna)](https://en.wikipedia.org/wiki/Vadim_Glowna) in the [Jack Irish](https://en.wikipedia.org/wiki/Jack_Irish) movies:
+
+> Technical Communication is to Writing what Software Engineering is to Programming.
 
 ## But why isn't it pretty?
 
 Simple really: I'm a writer not a designer.
 
-I've built sites with straight HTML/CSS, PHP, Wordpress, Jekyll and Zola. And in the majority of cases, I spend more time trying to hack the themes to do something useful than doing what I'm good at.
+I'd rather leave design to the professionals and concentrate on what I'm good at.
 
-I'd rather leave design to the professionals and concentrate on what I'm good at: Writing.
+And the benefit to you is you can see the writing for what it is, not get distracted by pretty designs, flashy graphics, colours and JavaScript jiggery-pokery.
 
-And there's a hidden benefit to you, dear visitor: you can see the writing for what it is, not be distracted by flashy graphics, colours and javascript jiggery-pokery.
-
-But if you want a designer, I can definitely recommend [Manita Johnson](http://manita.com.au/)
+But yes, I have built websites using HTML and CSS, Content Management Systems (CMS) like WordPress and Confluence, and the Jekyll and Zola site builders.
 
 ## Current tasks
 
-[LJSinclair project tasks](https://github.com/users/ljsinclair/projects/2/views/1)
+This is a public-facing Kanban project containing tasks that is kept up-to-date as required.
+
+* [LJSinclair project tasks](https://github.com/users/ljsinclair/projects/2/views/1)
 
 ## Past projects
+
+You can find a full breakdown and summary of past projects and work on my LinkedIn profile:
+
+* [LJ Sinclair on Linkedin](https://www.linkedin.com/in/ljsinclair/)
+
+Here's some highlights:
 
 | Project name | Description | Tools | Finish date |
 |---|---|---|---|
