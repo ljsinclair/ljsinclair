@@ -50,3 +50,10 @@ Here's some highlights:
 | [uEducateUs website](https://ueducateus.com.au) | Copywriting and website for the uEducateUs product | Jekyll, BitBucket | Jan 2021 |
 | [uEducateUs knowledgebase](https://linkedsuccess.atlassian.net/wiki/spaces/UKB/overview) | KB for the uEducateUs product | Confluence | Jan 2021 |
 | [AAWP website](https://aawp.org.au) | Restore site after catastrophic failure, document issues, recommend solutions and help implement solutions | Wordpress | 2021 |
+
+## Changelog
+
+| Version | Date | Changes |
+|---|---|---|
+| 2.0 | 2022-06-13 | Rewritten content to be less glib, created projects, cut old material |
+| 1.0 | 2021 | First published |
