@@ -21,13 +21,20 @@ To paraphrase  [Charlie Taub (Vadim Glowna)](https://en.wikipedia.org/wiki/Vadim
 
 ## But why isn't it pretty?
 
-Simple really: I'm a writer not a designer.
+A good User Experience (UX) is one where the audience gets the information they need when they need it.
 
-I'd rather leave design to the professionals and concentrate on what I'm good at.
+That's why I chose GitHub for a homepage, because it's clean and minimalistic (not to mention I can write content in Markdown).
 
-And the benefit to you is you can see the writing for what it is, not get distracted by pretty designs, flashy graphics, colours and JavaScript jiggery-pokery.
+That isn't to say I don't appreciate good design that:
 
-But yes, I have built websites using HTML and CSS, Content Management Systems (CMS) like WordPress and Confluence, and the Jekyll and Zola site builders.
+* prioritises usability and accessibility for the audience
+* helps the audience find what they need as quickly and efficiently as possible
+* is tested to verify these are the case.
+
+But it's far too easy to find sites and software that:
+
+* [deceive the audience](https://www.deceptive.design/)
+* [put design decisions before UX](https://grumpy.website/)
 
 ## Current tasks
 
