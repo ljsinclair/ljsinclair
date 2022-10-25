@@ -73,9 +73,9 @@ It's not like the showrunners would've had to look far; they both appeared in th
 
 ## Leaning out on Diversity
 
-Diversity has finally got its time in the sun and this is reflected in diverse casting choices across the board, not just Jody Whittaker and Ncuti Gatwa.
+Diversity has finally got its time in the sun and this is reflected in casting choices across the board, not just Jody Whittaker and Ncuti Gatwa. There's a long way to go of course, but at least we're seeing a better representation of the real world.
 
-However the decisions that led to the 14th Doctor's appearance are in my opinion a stunning missed opportunity to lean in on diversity, to let **everyone** have a Doctor that looks like them. 
+However the decisions that led to the 14th Doctor's appearance are in my opinion, a stunning missed opportunity to lean in on diversity, to let **everyone** have a Doctor that looks like them. 
 
 We live in the third decade of the 21st century. Surely we can do better than this?
 
