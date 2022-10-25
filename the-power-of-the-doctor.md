@@ -3,7 +3,9 @@
 
 **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 
-Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism -- and believe me when I say, every actor gets bad scripts from time to time[^b3d5] -- not experienced by other actors who played The Doctor save for Colin Baker's experiences in the 1980s. Not only that, she experienced the first truncated season since Colin's run, too[^7abf]. 
+Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism not experienced by other actors who played The Doctor save for Colin Baker's experiences in the 1980s[^b3d5], so some criticisms aren't really deserved.
+
+Not only that, she experienced the first truncated season since Colin's run, too[^7abf]. 
 
 Her final episode, The Power of The Doctor was a rollercoaster of emotion, funny, exciting, scary and at the end I was genuinely sad to see her leave the role.
 
@@ -81,6 +83,12 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 ---
 
+[^b3d5]: Believe me when I say, every actor gets bad scripts from time to time. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
+
+
+[^7abf]: FYI, [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) was abandoned due to industrial action in 1980, and [Colin Baker's final season](https://en.wikipedia.org/wiki/Doctor_Who_(season_23)) was truncated through BBC interference. Jody Whittaker's [Season 13](https://en.wikipedia.org/wiki/Doctor_Who_(series_13)) was severely impacted by the Covid-19 pandemic and health directives from the government and health services.
+
+
 [^7d7e]: Don't believe me? Go back and watch [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448), Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)) and now The Power of The Doctor.
 
 [^afd3]: I found this utterly bizarre at the time. Surely there is another showrunner in the entire UK that could do the job rather than the Back To The Future return of RTD?
@@ -89,8 +97,5 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^09e7]: The Master has taken pot-shots at The Doctor before, just watch [Logopolis](https://en.wikipedia.org/wiki/Logopolis) or [Castrovalva](https://en.wikipedia.org/wiki/Castrovalva_(Doctor_Who)) from 1981 if you don't believe me.
 
-[^b3d5]: Bad writing is subjective and isn't confined to one actor and production team. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
-
 [^66b7]: Nostalgia is great and seeing a previous Doctor back on screen is a very enjoyable thing. But there are limits you have to establish in order to move the story and the production forward. I'd love to see more of Matt Smith's Doctor, mainly because in my head-canon, he's ADHD just like me. But it's not possible in practice, not least of which is he's an actor who's got to work.
 
-[^7abf]: FYI, [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) was abandoned due to industrial action in 1980, and [Colin Baker's final season](https://en.wikipedia.org/wiki/Doctor_Who_(season_23)) was truncated through BBC interference. Jody Whittaker's [Season 13](https://en.wikipedia.org/wiki/Doctor_Who_(series_13)) was severely impacted by the Covid-19 pandemic and health directives from the government and health services.
