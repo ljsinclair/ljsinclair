@@ -41,7 +41,7 @@ From a purely observational standpoint, here's the situation as I see it.
 
 The Master's dastardly plan to **erase** The Doctor from the universe in The Power of The Doctor is an extension of this incarnation's hatred which began with [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children). And it's not a new sentiment by the way[^09e7].
 
-But the showrunners have gone one better.
+But the showrunners have gone one better and in my opinion, played right into the hands of the worst fandom can offer.
 
 ## What's a hater to think?
 
