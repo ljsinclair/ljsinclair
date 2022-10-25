@@ -3,7 +3,7 @@
 
 **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 
-Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism not experienced by other actors who played The Doctor, save for Colin Baker's experiences in the 1980s. Not only that, she experienced the first truncated season since Colin's run, too[^7abf].
+Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism -- and believe me when I say, every actor gets bad scripts from time to time[^b3d5] -- not experienced by other actors who played The Doctor save for Colin Baker's experiences in the 1980s. Not only that, she experienced the first truncated season since Colin's run, too[^7abf]. 
 
 Her final episode, The Power of The Doctor was a rollercoaster of emotion, funny, exciting, scary and at the end I was genuinely sad to see her leave the role.
 
@@ -61,7 +61,7 @@ But here, the 13th Doctor has been swiped away, disappeared. The rules of regene
 
 Call me cynical, but I think this looks like a case of **appeasement** by the showrunners, and this means the poisonous fandom can feel **vindicated** because RTD and the BBC appear to have accepted their opinions regarding the 13th Doctor and Jody Whittaker.
 
-This isn't just an act of blatant sabotage against Jody Whittaker's run as the first female Doctor in the show's history -- and believe me when I say, every actor gets bad scripts from time to time[^b3d5] -- but it's also a resounding slap in the face to the first black male actor in the role. Because by delaying Ncuti Gatwa's appointment as The Doctor, the BBC and production team have made it **abundantly clear** they'd rather re-establish the dominant, traditional appearance and gender of the Doctor as a white male, and abandon five years of work by everyone who worked on the previous seasons.
+This isn't just an act of blatant sabotage against Jody Whittaker's run as the first female Doctor in the show's history, and a betrayal of anyone who thinks other people should get a go in the role, but it's also a resounding slap in the face to the first black male actor in the role. Because by delaying Ncuti Gatwa's appointment as The Doctor, the BBC and production team have made it **abundantly clear** they'd rather re-establish the dominant, traditional appearance and gender of the Doctor as a white male, and abandon five years of work by everyone who worked on the previous seasons.
 
 ## Reversion Doctor
 
