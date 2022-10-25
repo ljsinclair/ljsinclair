@@ -3,7 +3,7 @@
 
 **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 
-Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism not experienced by other actors in the role, save for Colin Baker's run in the 1980s. Not only that, she experienced the first truncated season since the 1980s[^7abf].
+Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism not experienced by other actors who played The Doctor, save for Colin Baker's experiences in the 1980s. Not only that, she experienced the first truncated season since Colin's run, too[^7abf].
 
 Her final episode, The Power of The Doctor was a rollercoaster of emotion, funny, exciting, scary and at the end I was genuinely sad to see her leave the role.
 
