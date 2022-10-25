@@ -17,9 +17,9 @@ It's been known for a while that [David Tennant and Catherine Tate would be retu
 
 And had Tennant had returned as the 10th Doctor, I'd be all in. It's really cool to "discover" episodes of a show's run you've never seen (and I get that in this case, they're brand new episodes).
 
-Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteenth_Doctor), which means he's now had **three* cracks at the role[^7d7e].
+Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteenth_Doctor), which means he's now had **three** cracks at the role[^7d7e].
 
-And just so it's clear, I want to make it clear that David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. An actor is only as good as the scripts, but a good actor can make a bad script shine.
+And just so you know, I want to make it clear that David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. My opinions here are directed squarely at the BBC and showrunner Russell T. Davies.
 
 ## He's a fan favourite!
 
