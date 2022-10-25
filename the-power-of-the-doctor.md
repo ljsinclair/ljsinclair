@@ -47,7 +47,7 @@ But the showrunners have gone one better and in my opinion, played right into th
 
 ## What's a hater to think?
 
-There's a particularly nasty section of Doctor Who fandom[^b582] who have been screaming like cut pigs ever since Jodie Whittaker got the role. For example:
+There's a particularly nasty section of Doctor Who fandom who have been screaming like cut pigs ever since Jodie Whittaker got the role. For example:
 
 * [The drinker on the 13th Doctor](https://www.youtube.com/watch?v=MGWxjHBSn-4)[^29dd]
 * [Not the doctor](https://www.youtube.com/watch?v=82d5SrsPkIg)
