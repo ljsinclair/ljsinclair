@@ -33,15 +33,15 @@ From a purely observational standpoint, here's the situation as I see it.
 
 * [Jody finished filming her run back in 2021](https://www.smh.com.au/culture/tv-and-radio/saying-goodbye-is-hard-jodie-whittaker-s-time-in-tardis-ends-20221017-p5bqd2.html).
 * This was the close of her era and she didn't hand-over to a new Doctor at the time because one hadn't been chosen.
-* [Ncuti Gatwa who was announced in May 2022 as the next actor to play the coveted role](https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor) by returning showrunner Russell T. Davies[^afd3].
+* [Ncuti Gatwa was announced in May 2022 as the next actor to play the coveted role](https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor) by returning showrunner Russell T. Davies[^afd3].
 * As mentioned, David Tennant and Catherine Tate return in 2023.
 * And at the conclusion of The Power of The Doctor, we got David Tennant rather than Ncuti Gatwa.
 
 ### You be the judge
 
-The Master's dastardly plan to **erase** The Doctor from the universe in The Power of The Doctor is an extension of this incarnation's hatred which began with [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) and continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children). And it's not a new sentiment by the way[^09e7].
+The Master's dastardly plan to **erase** The Doctor from the universe in The Power of The Doctor is an extension of this incarnation's hatred which began with [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children). And it's not a new sentiment by the way[^09e7].
 
-But David Tennant's 14th Doctor hasn't done that. Or weren't you wondering why he isn't wearing Jody Whittaker's clothes?
+But the showrunners have gone one better.
 
 ## What's a hater to think?
 
@@ -55,25 +55,27 @@ There's a particularly nasty section of Doctor Who fandom[^b582] who have been s
 
 And now all their dreams have come true.
 
-If the 14th Doctor appeared in the 13th Doctor's clothing -- just like The Master did during the episode, right down to the dangly earring that came in so handy in [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils) -- then Tennant would be the **successor** to the 13th Doctor. And this is because it's established that Time Lord **bodies** regenerate, **not** their clothes.
+If the 14th Doctor appeared in the 13th Doctor's clothing -- just like The Master did during the episode, right down to the dangly earring that came in so handy in [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils) -- then the 14th would be the **successor** to the 13th Doctor. And this is because it's established that Time Lord **bodies** regenerate, **not** their clothes.
 
 But here, the 13th Doctor has been swiped away, disappeared. The rules of regeneration have been discarded, and now the 10th Doctor has returned, pretty much just as he looked like when we last saw him, to presumably steady the ship and return the show to its halcyon days[^66b7].
 
-Call me cynical, but I think this looks like a case of **appeasement** by the showrunners, and that the poisonous fandom can feel **vindicated** because RTD and the BBC appear to have accepted their opinions regarding the 13th Doctor and Jody Whittaker.
+Call me cynical, but I think this looks like a case of **appeasement** by the showrunners, and this means the poisonous fandom can feel **vindicated** because RTD and the BBC appear to have accepted their opinions regarding the 13th Doctor and Jody Whittaker.
 
-This isn't just an act of blatant sabotage against Jody Whittaker's run as the first female Doctor in the show's history -- and believe me when I say, every actor gets bad scripts from time to time[^b3d5] -- but also against the first black male actor in the role. Because by delaying Ncuti Gatwa's appointment as The Doctor, the BBC and production team have made it **abundantly clear** they'd rather re-establish the dominant, traditional appearance and gender of the Doctor as a white male.
+This isn't just an act of blatant sabotage against Jody Whittaker's run as the first female Doctor in the show's history -- and believe me when I say, every actor gets bad scripts from time to time[^b3d5] -- but it's also a resounding slap in the face to the first black male actor in the role. Because by delaying Ncuti Gatwa's appointment as The Doctor, the BBC and production team have made it **abundantly clear** they'd rather re-establish the dominant, traditional appearance and gender of the Doctor as a white male, and abandon five years of work by everyone who worked on the previous seasons.
 
 ## Reversion Doctor
 
 But let's take another view and accept the idea that the 14th Doctor has come about because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
 
-So why not give fans what they want, and give two Doctors their time in the sun, say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or more recent [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)?
+So why not give fans what they want, and give two Doctors their time in the sun, say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)?
 
 It's not like the showrunners would've had to look far; they both appeared in the episode!
 
 ## Leaning out on Diversity
 
-At best, the decisions behind the 14th Doctor are a missed opportunity to lean in on diversity, to let **everyone** have a Doctor that looks like them. The world has moved on, diversity has finally got its time in the sun and this is being reflected in diverse casting choices such as Jody Whittaker and Ncuti Gatwa.
+Diversity has finally got its time in the sun and this is reflected in diverse casting choices across the board, not just Jody Whittaker and Ncuti Gatwa.
+
+However the decisions that led to the 14th Doctor's appearance are in my opinion a stunning missed opportunity to lean in on diversity, to let **everyone** have a Doctor that looks like them. 
 
 We live in the third decade of the 21st century. Surely we can do better than this?
 
