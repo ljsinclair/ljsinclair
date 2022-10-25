@@ -81,7 +81,7 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 ---
 
-[^7d7e]: Don't believe me? Go back and watch [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448), Christopher Eccleston's swansong, [Journey's End]https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who) and now The Power of The Doctor.
+[^7d7e]: Don't believe me? Go back and watch [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448), Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)) and now The Power of The Doctor.
 
 [^afd3]: I found this utterly bizarre at the time. Surely there is another showrunner in the entire UK that could do the job rather than the Back To The Future return of RTD?
 
@@ -93,4 +93,4 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^66b7]: Nostalgia is great and seeing a previous Doctor back on screen is a very enjoyable thing. But there are limits you have to establish in order to move the story and the production forward. I'd love to see more of Matt Smith's Doctor, mainly because in my head-canon, he's ADHD just like me. But it's not possible in practice, not least of which is he's an actor who's got to work.
 
-[^7abf]: [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) was abandoned due to industrial action in 1980, and [Colin Baker's final season](https://en.wikipedia.org/wiki/Doctor_Who_(season_23)) was also reduced, though this was because of BBC interference. Jody Whittaker's [season 13](https://en.wikipedia.org/wiki/Doctor_Who_(series_13)) on the other hand was severely impacted by the Covid-19 pandemic and health directives from the government and health services.
+[^7abf]: FYI, [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) was abandoned due to industrial action in 1980, and [Colin Baker's final season](https://en.wikipedia.org/wiki/Doctor_Who_(season_23)) was truncated through BBC interference. Jody Whittaker's [Season 13](https://en.wikipedia.org/wiki/Doctor_Who_(series_13)) was severely impacted by the Covid-19 pandemic and health directives from the government and health services.
