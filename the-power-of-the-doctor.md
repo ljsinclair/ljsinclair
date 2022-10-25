@@ -1,5 +1,5 @@
 # Leaning out on Diversity
-## my analysis of the last 10 seconds of a TV show I love
+## My analysis of the last 10 seconds of a TV show I love
 
 **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 
