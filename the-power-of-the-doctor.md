@@ -21,7 +21,7 @@ And had Tennant had returned as the 10th Doctor, I'd be all in. It's really cool
 
 Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteenth_Doctor), which means he's now had **three** cracks at the role[^7d7e].
 
-And just so you know, I want to make it clear that David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. My opinions here are directed squarely at the BBC and showrunner Russell T. Davies.
+> And just so you know, I want to make it clear that David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. My opinions here are directed squarely at the BBC and showrunner Russell T. Davies.
 
 ## He's a fan favourite!
 
@@ -93,7 +93,7 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^afd3]: I found this utterly bizarre at the time. Surely there is another showrunner in the entire UK that could do the job rather than the Back To The Future return of RTD?
 
-[^29dd]: And Pro-Tip to The Drinker if you're reading, stating an opinion is fine. Misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
+[^29dd]: And Pro-Tip to The Drinker if you're reading: stating an opinion is fine; misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
 
 [^09e7]: The Master has taken pot-shots at The Doctor before, just watch [Logopolis](https://en.wikipedia.org/wiki/Logopolis) or [Castrovalva](https://en.wikipedia.org/wiki/Castrovalva_(Doctor_Who)) from 1981 if you don't believe me.
 
