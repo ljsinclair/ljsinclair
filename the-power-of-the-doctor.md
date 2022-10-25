@@ -1,5 +1,5 @@
 # Leaning out on Diversity
-## My analysis of the last 10 seconds of a TV show I love
+## My analysis of the last 10 seconds of The Power of The Doctor
 
 **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 
@@ -39,13 +39,21 @@ From a purely observational standpoint, here's the situation as I see it.
 * As mentioned, David Tennant and Catherine Tate return in 2023.
 * And at the conclusion of The Power of The Doctor, we got David Tennant rather than Ncuti Gatwa.
 
-### You be the judge
+### Reversion Doctor
+
+But let's take another view and accept the idea that the 14th Doctor has come about because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
+
+So why not give the fans a real surprise and give then a Doctor that has only appeared briefly in other episodes, and never got a full series of their own; say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)? It's not like the showrunners would've had to look far; they both appeared in the episode!
+
+For my money, either of these would have been far more exciting than Tennant who has already had a full three year run, plus specials on top and an appearance as the 10th in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor).
+
+## Playing into their hands
 
 The Master's dastardly plan to **erase** The Doctor from the universe in The Power of The Doctor is an extension of this incarnation's hatred which began with [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children). And it's not a new sentiment by the way[^09e7].
 
 But the showrunners have gone one better and in my opinion, played right into the hands of the worst fandom can offer.
 
-## What's a hater to think?
+### What's a hater to think?
 
 There's a particularly nasty section of Doctor Who fandom who have been screaming like cut pigs ever since Jodie Whittaker got the role. For example:
 
@@ -63,25 +71,21 @@ But here, the 13th Doctor has been swiped away, disappeared. The rules of regene
 
 Call me cynical, but I think this looks like a case of **appeasement** by the showrunners, and this means the poisonous fandom can feel **vindicated** because RTD and the BBC appear to have accepted their opinions regarding the 13th Doctor and Jody Whittaker.
 
-This isn't just an act of blatant sabotage against Jody Whittaker's run as the first female Doctor in the show's history, and a betrayal of anyone who thinks other people should get a go in the role, but it's also a resounding slap in the face to the first black male actor in the role. Because by delaying Ncuti Gatwa's appointment as The Doctor, the BBC and production team have made it **abundantly clear** they'd rather re-establish the dominant, traditional appearance and gender of the Doctor as a white male, and abandon five years of work by everyone who worked on the previous seasons.
+## Good intentions and the road to hell
 
-## Reversion Doctor
+I expect that on paper, the idea to cast David Tennant as the 14th Doctor looked like it was made of **solid WIN**[^t5yh]. I mean, there he is, he loves the role and his era is held to be a high-point in the same way as Tom Baker's was from the perspective of the 1980s. And of course, regenerations are **supposed** to shake things up, right?
 
-But let's take another view and accept the idea that the 14th Doctor has come about because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
+Except by handling the regeneration like this, it feels like The Evil Sisters have rammed Jody Whittaker's Cinderella back under the staircase in the hope that the pitchfork and torch mob won't burn the place down because they're insensed that Cinders doesn't sweep up nearly as well as the last twelve blokes in the job. And not only that, Cinders won't get to hand the broom to the new guy, because the Evil Sisters have hired the Tenth guy to show him how it's done.
 
-So why not give fans what they want, and give two Doctors their time in the sun, say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)?
+Or to put it more bluntly, the BBC and showrunners have created the perception that toxic fandom is right, that Jody's run can be sidelined and they'd rather re-establish the dominant, traditional appearance and gender of The Doctor as a white male. And only when normality is restored will David hand over the role Ncuti was promised back in May 2022. 
 
-It's not like the showrunners would've had to look far; they both appeared in the episode!
-
-## Leaning out on Diversity
+## Leaning OUT on Diversity
 
 Diversity has finally got its time in the sun and this is reflected in casting choices across the board, not just Jody Whittaker and Ncuti Gatwa. There's a long way to go of course, but at least we're seeing a better representation of the real world.
 
 However the decisions that led to the 14th Doctor's appearance are in my opinion, a stunning missed opportunity to lean in on diversity, to let **everyone** have a Doctor that looks like them. 
 
 We live in the third decade of the 21st century. Surely we can do better than this?
-
----
 
 [^b3d5]: Believe me when I say, every actor gets bad scripts from time to time. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
 
@@ -101,3 +105,6 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^66b7]: Nostalgia is great and seeing a previous Doctor back on screen is a very enjoyable thing. But there are limits you have to establish in order to move the story and the production forward. I'd love to see more of Matt Smith's Doctor, mainly because in my head-canon, he's ADHD just like me. But it's not possible in practice, not least of which is he's an actor who's got to work.
 
+[^t5yh]: A bit lik [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
+
+[^r52h]: Yes, I'm mixing fairytale with Frankenstinian horror, but I think I've made the point? Or you can tell me you didn't like it by emailling myblog@ismine.net
