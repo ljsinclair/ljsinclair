@@ -33,7 +33,7 @@ But you know what, let's not debate continuity because that's a slippery beast a
 
 From a purely observational standpoint, here's the situation as I see it.
 
-* [Jody finished filming her run back in 2021](https://www.smh.com.au/culture/tv-and-radio/saying-goodbye-is-hard-jodie-whittaker-s-time-in-tardis-ends-20221017-p5bqd2.html).
+* [Jody finished filming her run back in 2021](https://collider.com/doctor-who-jodie-whittaker-regeneration-scene-comments/).
 * This was the close of her era and she didn't hand-over to a new Doctor at the time because one hadn't been chosen.
 * [Ncuti Gatwa was announced in May 2022 as the next actor to play the coveted role](https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor) by returning showrunner Russell T. Davies[^afd3].
 * As mentioned, David Tennant and Catherine Tate return in 2023.
@@ -57,7 +57,7 @@ There's a particularly nasty section of Doctor Who fandom who have been screamin
 
 And now all their dreams have come true.
 
-If the 14th Doctor appeared in the 13th Doctor's clothing -- just like The Master did during the episode, right down to the dangly earring that came in so handy in [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils) -- then the 14th would be the **successor** to the 13th Doctor. And this is because it's established that Time Lord **bodies** regenerate, **not** their clothes.
+If the 14th Doctor appeared in the 13th Doctor's clothing -- just like The Master did during the episode, right down to the dangly earring that came in so handy in [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils) -- then the 14th would be the **successor** to the 13th Doctor. And this is because it's established that Time Lord **bodies** regenerate, **not** their clothes[^9ub5].
 
 But here, the 13th Doctor has been swiped away, disappeared. The rules of regeneration have been discarded, and now the 10th Doctor has returned, pretty much just as he looked like when we last saw him, to presumably steady the ship and return the show to its halcyon days[^66b7].
 
@@ -96,6 +96,8 @@ We live in the third decade of the 21st century. Surely we can do better than th
 [^29dd]: And Pro-Tip to The Drinker if you're reading: stating an opinion is fine; misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
 
 [^09e7]: The Master has taken pot-shots at The Doctor before, just watch [Logopolis](https://en.wikipedia.org/wiki/Logopolis) or [Castrovalva](https://en.wikipedia.org/wiki/Castrovalva_(Doctor_Who)) from 1981 if you don't believe me.
+
+[^9ub5]: Zygons are the ones who can do clothes as demonstrated in [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)
 
 [^66b7]: Nostalgia is great and seeing a previous Doctor back on screen is a very enjoyable thing. But there are limits you have to establish in order to move the story and the production forward. I'd love to see more of Matt Smith's Doctor, mainly because in my head-canon, he's ADHD just like me. But it's not possible in practice, not least of which is he's an actor who's got to work.
 
