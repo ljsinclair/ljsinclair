@@ -1,4 +1,7 @@
-[Explainers](https://github.com/ljsinclair/ljsinclair/tree/main/Explainers) | [Issues and fixes](https://github.com/ljsinclair/ljsinclair/tree/main/issues-and-fixes) |  [Contact](mailto:projects@ljsinclair.net) | [Linkedin](https://www.linkedin.com/in/ljsinclair/)
+
+| Navigation |
+|---|
+| [Explainers](https://github.com/ljsinclair/ljsinclair/tree/main/Explainers) | [Issues and fixes](https://github.com/ljsinclair/ljsinclair/tree/main/issues-and-fixes) |  [Contact](mailto:projects@ljsinclair.net) | [Linkedin](https://www.linkedin.com/in/ljsinclair/) |
 
 # I'm LJ Sinclair, and I'm a writer
 
