@@ -13,6 +13,16 @@ And then this happened:
 
 [13 Doctor regeneration scene](https://www.youtube.com/watch?v=5mbD2VxtGJk)
 
+## What's wrong with this picture?
+
+From a purely observational standpoint, here's the situation as I see it.
+
+* [Jody finished filming her run back in 2021](https://collider.com/doctor-who-jodie-whittaker-regeneration-scene-comments/).
+* This was the close of her era and she didn't hand-over to a new Doctor at the time because one hadn't been chosen.
+* [Ncuti Gatwa was announced in May 2022 as the next actor to play the coveted role](https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor) by returning showrunner Russell T. Davies[^afd3].
+* As mentioned, David Tennant and Catherine Tate return in 2023.
+* And at the conclusion of The Power of The Doctor, we got David Tennant rather than Ncuti Gatwa.
+
 ## Awesome! David Tennant is back!
 
 It's been known for a while that [David Tennant and Catherine Tate would be returning for three specials to celebrate the show's 60th anniversary](https://www.doctorwho.tv/news-and-features/david-tennant-catherine-tate-return).
@@ -27,35 +37,21 @@ Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteen
 
 There are a whole bucket of problems in returning **like this**, not least of which is that it breaks the very continuity that certain fans have been screaming about since Jody Whittaker took on the role of the 13th Doctor, and showrunner Chris Chibnall introduced the Timeless Child storyline back in [The Ghost Monument](https://en.wikipedia.org/wiki/The_Ghost_Monument) in 2018.
 
-But you know what, let's not debate continuity because that's a slippery beast at the best of times, and concentrate instead on real world impacts.
-
-## What's wrong with this picture?
-
-From a purely observational standpoint, here's the situation as I see it.
-
-* [Jody finished filming her run back in 2021](https://collider.com/doctor-who-jodie-whittaker-regeneration-scene-comments/).
-* This was the close of her era and she didn't hand-over to a new Doctor at the time because one hadn't been chosen.
-* [Ncuti Gatwa was announced in May 2022 as the next actor to play the coveted role](https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor) by returning showrunner Russell T. Davies[^afd3].
-* As mentioned, David Tennant and Catherine Tate return in 2023.
-* And at the conclusion of The Power of The Doctor, we got David Tennant rather than Ncuti Gatwa.
-
-### Reversion Doctor
-
-But let's take another view and accept the idea that the 14th Doctor has come about because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
-
-So why not give the fans a real surprise and give then a Doctor that has only appeared briefly in other episodes, and never got a full series of their own; say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)? It's not like the showrunners would've had to look far; they both appeared in the episode!
-
-For my money, either of these would have been far more exciting than Tennant who has already had a full three year run, plus specials on top and an appearance as the 10th in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor).
-
-## Playing into their hands
+### Load the canon!
 
 The Master's dastardly plan to **erase** The Doctor from the universe in The Power of The Doctor is an extension of this incarnation's hatred which began with [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children). And it's not a new sentiment by the way[^09e7].
 
-But the showrunners have gone one better and in my opinion, played right into the hands of the worst fandom can offer.
+It's said that what's transmitted is canon, the fact of the show, and can't be undone. With this in mind, we have to accept the premise that the 14th Doctor has come about because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
 
-### What's a hater to think?
+And if you're going there, why not give the fans a real surprise and give then a Doctor that has only appeared briefly in other episodes, and never got a full series of their own; say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)? It's not like the showrunners would've had to look far; they both appeared in the episode!
 
-There's a particularly nasty section of Doctor Who fandom who have been screaming like cut pigs ever since Jodie Whittaker got the role. For example:
+For my money, either of these would have been far more exciting than Tennant who has already had a full three year run, plus specials on top and an appearance as the 10th in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor).
+
+## Erasing The Doctor
+
+The Master's hate is directed at the 13th Doctor, and it is she who is responsible for saving all her incarnations from erasure. 
+
+There's interesting real-world parallels here; and when I say *interesting* I'm actually talking about toxic fandom whose members have been screaming like cut pigs ever since [Jodie Whittaker got the role back in 2017](https://arstechnica.com/gaming/2017/07/doctor-who-jodie-whittaker-13th-doctor/). Here's a small sample:
 
 * [The drinker on the 13th Doctor](https://www.youtube.com/watch?v=MGWxjHBSn-4)[^29dd]
 * [Not the doctor](https://www.youtube.com/watch?v=82d5SrsPkIg)
@@ -63,7 +59,7 @@ There's a particularly nasty section of Doctor Who fandom who have been screamin
 
 ...and it's not hard to find more.
 
-And now all their dreams have come true.
+And now it seems all their dreams have come true.
 
 If the 14th Doctor appeared in the 13th Doctor's clothing -- just like The Master did during the episode, right down to the dangly earring that came in so handy in [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils) -- then the 14th would be the **successor** to the 13th Doctor. And this is because it's established that Time Lord **bodies** regenerate, **not** their clothes[^9ub5].
 
@@ -77,7 +73,7 @@ I expect that on paper, the idea to cast David Tennant as the 14th Doctor looked
 
 Except by handling the regeneration like this, it feels like The Evil Sisters have rammed Jody Whittaker's Cinderella back under the staircase in the hope that the pitchfork and torch mob won't burn the place down because they're insensed that Cinders doesn't sweep up nearly as well as the last twelve blokes in the job. And not only that, Cinders won't get to hand the broom to the new guy, because the Evil Sisters have hired the Tenth guy to show him how it's done.
 
-Or to put it more bluntly, the BBC and showrunners have created the perception that toxic fandom is right, that Jody's run can be sidelined and they'd rather re-establish the dominant, traditional appearance and gender of The Doctor as a white male. And only when normality is restored will David hand over the role Ncuti was promised back in May 2022. 
+Or to put it more bluntly, the BBC and showrunners have created the perception that toxic fandom is right, that Jody's run can be sidelined and they'd rather re-establish the dominant, traditional appearance and gender of The Doctor. And only when normality is restored will David hand over the role Ncuti was promised back in May 2022. 
 
 ## Leaning OUT on Diversity
 
