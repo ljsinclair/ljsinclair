@@ -35,8 +35,6 @@ Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteen
 
 ### But he's a fan favourite![^jk8u]
 
-(and so are other actors who have played the role, FYI)
-
 There are a whole bucket of problems in returning **like this**, not least of which is that it breaks the very continuity that certain fans have been screaming about since Jody Whittaker took on the role of the 13th Doctor, and showrunner Chris Chibnall introduced the Timeless Child storyline back in [The Ghost Monument](https://en.wikipedia.org/wiki/The_Ghost_Monument) in 2018.
 
 ### Load the canon!
