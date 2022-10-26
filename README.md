@@ -23,7 +23,7 @@ A lot of websites are like those blockbuster movies where the story and plot **s
 
 But from a writing point of view, this approach puts aesthetics before function.
 
-It's for that reason I've decided on GitHub to host my content which means the content can stand on its own.
+It's for that reason I've decided on GitHub which means the content can stand on its own.
 
 Not to mention, I can write it in [Markdown](https://en.wikipedia.org/wiki/Markdown), which is plain text and can be exported (using tools such as [Pandoc](https://pandoc.org/)) to different file formats.
 
