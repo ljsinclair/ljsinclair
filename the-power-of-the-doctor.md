@@ -37,7 +37,7 @@ Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteen
 
 There are a whole bucket of problems in returning **like this**, not least of which is that it breaks the very continuity that certain fans have been screaming about since Jody Whittaker took on the role of the 13th Doctor, and showrunner Chris Chibnall introduced the Timeless Child storyline back in [The Ghost Monument](https://en.wikipedia.org/wiki/The_Ghost_Monument) in 2018.
 
-### Load the canon!
+## Load the canon!
 
 The Master's dastardly plan to **erase** The Doctor from the universe in The Power of The Doctor is an extension of this incarnation's hatred which began with [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children). And it's not a new sentiment by the way[^09e7].
 
@@ -47,7 +47,7 @@ And if you're going there, why not give the fans a real surprise and give then a
 
 For my money, either of these would have been far more exciting than Tennant who has already had a full three year run, plus specials on top and an appearance as the 10th in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor).
 
-## Erasing The Doctor
+### Erasing The Doctor
 
 The Master's hate is directed at the 13th Doctor, and it is she who is responsible for saving all her incarnations from erasure. 
 
@@ -90,7 +90,7 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^afd3]: I found this utterly bizarre at the time. Surely there is another showrunner in the entire UK that could do the job rather than the Back To The Future return of RTD?
 
-[^7d7e]: Don't believe me? Go back and watch [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448), Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)) and now The Power of The Doctor.
+[^7d7e]: Don't believe me? Go back and watch Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)), [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448) where he not only regenerates without changing his face but gets a twin onto the bargain, and now The Power of The Doctor.
 
 [^jk8u]: In truth, all the actors who have played The Doctor (as well as the companions) have fans, it's not just David.
 
@@ -102,4 +102,4 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^66b7]: Nostalgia is great and seeing a previous Doctor back on screen is a very enjoyable thing. But there are limits you have to establish in order to move the story and the production forward. I'd love to see more of Matt Smith's Doctor, mainly because in my head-canon, he's ADHD just like me. But it's not possible in practice, not least of which is he's an actor who's got to work.
 
-[^t5yh]: A bit lik [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
+[^t5yh]: A bit like [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
