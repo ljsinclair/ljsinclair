@@ -102,5 +102,3 @@ We live in the third decade of the 21st century. Surely we can do better than th
 [^66b7]: Nostalgia is great and seeing a previous Doctor back on screen is a very enjoyable thing. But there are limits you have to establish in order to move the story and the production forward. I'd love to see more of Matt Smith's Doctor, mainly because in my head-canon, he's ADHD just like me. But it's not possible in practice, not least of which is he's an actor who's got to work.
 
 [^t5yh]: A bit lik [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
-
-[^r52h]: Yes, I'm mixing fairytale with Frankenstinian horror, but I think I've made the point? Or you can tell me you didn't like it by emailling myblog@ismine.net
