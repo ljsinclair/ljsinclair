@@ -20,20 +20,22 @@ From a purely observational standpoint, here's the situation as I see it.
 * [Jody finished filming her run back in 2021](https://collider.com/doctor-who-jodie-whittaker-regeneration-scene-comments/).
 * This was the close of her era and she didn't hand-over to a new Doctor at the time because one hadn't been chosen.
 * [Ncuti Gatwa was announced in May 2022 as the next actor to play the coveted role](https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor) by returning showrunner Russell T. Davies[^afd3].
-* As mentioned, David Tennant and Catherine Tate return in 2023.
-* And at the conclusion of The Power of The Doctor, we got David Tennant rather than Ncuti Gatwa.
+* [David Tennant and Catherine Tate will be returning in 2023 for three specials to celebrate the show's 60th anniversary](https://www.doctorwho.tv/news-and-features/david-tennant-catherine-tate-return).
+* Yet at the conclusion of The Power of The Doctor, Jody's 13th Doctor regenerated into... David Tennant?!
+
+**What**, indeed.
 
 ## Awesome! David Tennant is back!
 
-It's been known for a while that [David Tennant and Catherine Tate would be returning for three specials to celebrate the show's 60th anniversary](https://www.doctorwho.tv/news-and-features/david-tennant-catherine-tate-return).
-
-And had Tennant had returned as the 10th Doctor, I'd be all in. It's really cool to "discover" episodes of a show's run you've never seen (and I get that in this case, they're brand new episodes).
+Had Tennant had returned as the 10th Doctor, I'd be all in. It's really cool to "discover" episodes of a show's run you've never seen (and I get that in this case, they're brand new episodes).
 
 Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteenth_Doctor), which means he's now had **three** cracks at the role[^7d7e].
 
 > And just so you know, I want to make it clear that David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. My opinions here are directed squarely at the BBC and showrunner Russell T. Davies.
 
-## He's a fan favourite!
+### But he's a fan favourite![^jk8u]
+
+(and so are other actors who have played the role, FYI)
 
 There are a whole bucket of problems in returning **like this**, not least of which is that it breaks the very continuity that certain fans have been screaming about since Jody Whittaker took on the role of the 13th Doctor, and showrunner Chris Chibnall introduced the Timeless Child storyline back in [The Ghost Monument](https://en.wikipedia.org/wiki/The_Ghost_Monument) in 2018.
 
@@ -88,14 +90,15 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^7abf]: FYI, [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) was abandoned due to industrial action in 1980, and [Colin Baker's final season](https://en.wikipedia.org/wiki/Doctor_Who_(season_23)) was truncated through BBC interference. Jody Whittaker's [Season 13](https://en.wikipedia.org/wiki/Doctor_Who_(series_13)) was severely impacted by the Covid-19 pandemic and health directives from the government and health services.
 
+[^afd3]: I found this utterly bizarre at the time. Surely there is another showrunner in the entire UK that could do the job rather than the Back To The Future return of RTD?
 
 [^7d7e]: Don't believe me? Go back and watch [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448), Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)) and now The Power of The Doctor.
 
-[^afd3]: I found this utterly bizarre at the time. Surely there is another showrunner in the entire UK that could do the job rather than the Back To The Future return of RTD?
-
-[^29dd]: And Pro-Tip to The Drinker if you're reading: stating an opinion is fine; misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
+[^jk8u]: In truth, all the actors who have played The Doctor (as well as the companions) have fans, it's not just David.
 
 [^09e7]: The Master has taken pot-shots at The Doctor before, just watch [Logopolis](https://en.wikipedia.org/wiki/Logopolis) or [Castrovalva](https://en.wikipedia.org/wiki/Castrovalva_(Doctor_Who)) from 1981 if you don't believe me.
+
+[^29dd]: And Pro-Tip to The Drinker if you're reading: stating an opinion is fine; misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
 
 [^9ub5]: Zygons are the ones who can do clothes as demonstrated in [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)
 
