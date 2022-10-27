@@ -42,13 +42,11 @@ Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteen
 
 And so is every other actor who's played the part, so let's not get carried away here.
 
-There are a whole bucket of problems in returning **like this**, not least of which is that it breaks the very continuity that certain fans have been screaming about since Jody Whittaker took on the role of the 13th Doctor, and showrunner Chris Chibnall introduced the Timeless Child storyline back in [The Ghost Monument](https://en.wikipedia.org/wiki/The_Ghost_Monument) in 2018.
-
 ## Load the canon!
 
 It's said that what's transmitted is canon, the fact of the show, and can't be undone. This means we must respect the premise offered at the conclusion of The Power of The Doctor[^13ed].
 
-### Reverting to bite
+### Give the fans what they want!
 
 The 14th Doctor has the face of the 10th presumably because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
 
@@ -78,7 +76,7 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 > Thankfully, Cinders' contract is up, so you've hired an earlier employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the next contractor you've hired...
 
-### Splitting quantums?
+### Splitting quantum hairs?
 
 As part of The Master's dastardly plot, he forces the 13th Doctor to regenerate not only with his appearance but his memories. For a while it looks like The Doctor is dead.
 
@@ -86,14 +84,16 @@ Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangl
 
 But then we get to the regeneration scene right at the end of the episode and not only does David Tennant appear, he's wearing a [suit and overcoat, that looks a lot like his original costume](https://en.wikipedia.org/wiki/Tenth_Doctor#Appearance).
 
-And it's Christmas for the haters because in their minds:
+There are a whole bucket of problems with this, not least of which is that it breaks the very continuity that the trolls have been screaming about since 2017.
+
+But Tenant's return is like Christmas for the trolls because:
 
 * The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)
-* The show has been crap since then, but the nadir arrived in 2017 with the despised 13th Doctor, and the show has been run into the ground thanks to showrunner Chris Chibnall who's written utter shit for the entire run.
+* The show has been crap since then, but the nadir arrived in 2017 with the despised 13th Doctor, and the show has been run into the ground thanks to showrunner Chris Chibnall, especially that Timeless Children shit!
 * And now ~~Jesus~~ the 10th Doctor has returned to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke), [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**
 * And best of all, there's no trace of the 13th Doctor, not even her clothing[^dcaa].
 
-Or in other words, the regeneration scene **vindcates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
+Or in other words, the regeneration scene **vindicates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
 And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor, and also delayed his reappearance so normality can be restored.
 
@@ -101,7 +101,7 @@ And to add insult to injury, by re-establishing the character's dominant, tradit
 
 In the opinion of this humble scribbler, the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963 deserves better than fans who aggressively pursue a view of racial and sexual purity and refuse to let anyone else play in the universe of Doctor Who.
 
-And by delaying Ncuti Gatwa's appointment as the **next** Doctor as promised in May 2022, the BBC and showrunners have missed a golden opportunity to **lean-in on diversity**, and have the show reflect the variety of faces, genders and genetics we see in the society of the third decade of the 21st century.
+And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in May 2022, the BBC and showrunners have missed a golden opportunity to **lean-in on diversity**, and have the show reflect the variety of faces, genders and genetics we see in the society of the third decade of the 21st century.
 
 
 [^b3d5]: Believe me when I say, every actor gets bad scripts from time to time. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
