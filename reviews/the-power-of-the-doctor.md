@@ -30,9 +30,9 @@ From a purely observational standpoint, here's the situation as I see it.
 
 **What**, indeed.
 
-## Good intentions and the road to hell
+### Good intentions and the road to hell
 
-I expect that on paper, the idea to have David Tennant return to the role of The Doctor after 12 years absence would have looked like it was made of **solid WIN**[^t5yh]. I mean, there he is, he loves the role and his era is held to be a high-point in the same way as Tom Baker's was from the perspective of the 1980s.
+I expect that on paper, the idea to have David Tennant return to the role of The Doctor after 12 years absence would have looked like it was made of **SOLID WIN!!**[^t5yh]. I mean, there he is, he loves the role and his era is held to be a high-point in the same way as Tom Baker's was from the perspective of the 1980s.
 
 Had Tennant returned as the [10th Doctor](https://en.wikipedia.org/wiki/Tenth_Doctor), I'd be all in. It's really cool to "discover" episodes of a show's run you've never seen (and I get that in this case, they're brand new episodes).
 
@@ -58,7 +58,7 @@ Yeah, and so are [all the other actors to play the part](https://en.wikipedia.or
 
 Jody Whittaker's final adventure involves a complex storyline, which includes attempts by her nemesis [The Master](https://en.wikipedia.org/wiki/The_Master_(Doctor_Who)) played by Sacha Dhawan to erase all incarnations of The Doctor from existence.
 
-His hate isn't new[^09e7], and in this case is the result of discoveries revealed in [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children).
+His hate isn't new[^09e7], and in this case is the result of discoveries revealed in [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then in [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children).
 
 ### Art imitates life
 
@@ -72,7 +72,7 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 ...and it's not hard to find more.
 
-> Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the next contractor you've hired...
+> Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the guy...
 
 ### Splitting quantum hairs?
 
