@@ -84,12 +84,7 @@ But then we get to the regeneration scene right at the end of the episode and no
 
 There are a whole bucket of problems with this, not least of which is that it breaks the very continuity that the trolls have been screaming about since 2017.
 
-But Tenant's return is like Christmas for the trolls because:
-
-* The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)
-* The show has been crap since then, but the nadir arrived in 2017 with the despised 13th Doctor, and the show has been run into the ground thanks to showrunner Chris Chibnall, especially that Timeless Children shit!
-* And now ~~Jesus~~ the 10th Doctor has returned to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke), [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**
-* And best of all, there's no trace of the 13th Doctor, not even her clothing[^dcaa].
+But "Fuck continuity," they say, because ~~Jesus~~ the 10th Doctor has returned to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke), [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**. And best of all, there's no trace of the 13th Doctor, not even her clothing[^dcaa].
 
 Or in other words, the regeneration scene **vindicates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
