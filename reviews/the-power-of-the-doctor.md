@@ -60,7 +60,17 @@ Jody Whittaker's final adventure involves a complex storyline, which includes at
 
 His hate isn't new[^09e7], and in this case is the result of discoveries revealed in [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then in [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children).
 
-### Art imitates life
+### Splitting quantum hairs?
+
+As part of The Master's dastardly plot, he forces the 13th Doctor to regenerate not only with his appearance but his memories. For a while it looks like The Doctor is dead.
+
+Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangly earring which came in handy during [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils).
+
+But then we get to the regeneration scene right at the end of the episode and not only does David Tennant appear, he's wearing a [suit and overcoat, that looks a lot like his original costume](https://en.wikipedia.org/wiki/Tenth_Doctor#Appearance).
+
+There are a whole bucket of problems with this, not least of which is that it breaks the very continuity that the trolls have been screaming about since 2017.
+
+### Don't feed the trolls
 
 > Once upon a time, there was an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and they say she doesn't sweep the dirt nearly as well as your previous 12 employees.
 
@@ -74,15 +84,9 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 > Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the guy...
 
-### Splitting quantum hairs?
+### The Continuity is more like *guidelines*...[^4e28]
 
-As part of The Master's dastardly plot, he forces the 13th Doctor to regenerate not only with his appearance but his memories. For a while it looks like The Doctor is dead.
-
-Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangly earring which came in handy during [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils).
-
-But then we get to the regeneration scene right at the end of the episode and not only does David Tennant appear, he's wearing a [suit and overcoat, that looks a lot like his original costume](https://en.wikipedia.org/wiki/Tenth_Doctor#Appearance).
-
-There are a whole bucket of problems with this, not least of which is that it breaks the very continuity that the trolls have been screaming about since 2017. For instance that Time Lords regenerate their **bodies**, not their clothes[^9ub5].
+It's an established fact in the Doctor Who continuity that Time Lords regenerate their **bodies**, not their clothes[^9ub5].
 
 But "Fuck continuity," say the trolls, because [Space Jesus is back](https://www.youtube.com/watch?v=pQbaCs4PvF4) to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke), [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**. And best of all, there's not a trace of the 13th Doctor, not even her clothing[^dcaa].
 
@@ -112,6 +116,8 @@ And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in
 [^09e7]: The Master has taken pot-shots at The Doctor before, just watch [Logopolis](https://en.wikipedia.org/wiki/Logopolis) or [Castrovalva](https://en.wikipedia.org/wiki/Castrovalva_(Doctor_Who)) from 1981 if you don't believe me.
 
 [^29dd]: And Pro-Tip to The Drinker if you're reading: stating an opinion is fine; misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
+
+[^4e28]: [The pirate's code](https://www.youtube.com/watch?v=omjnIeLIzJc)
 
 [^9ub5]: Zygons are the ones who can do clothes as demonstrated in [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)
 
