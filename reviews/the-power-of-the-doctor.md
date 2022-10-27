@@ -62,7 +62,7 @@ His hate isn't new[^09e7], and in this case is the result of discoveries reveale
 
 ### Once upon a time...
 
-> Imagine if you will an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and in their opinion, she doesn't sweep the dirt nearly as well as your previous 12 employees.
+> There was an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and in their opinion, she doesn't sweep the dirt nearly as well as your previous 12 employees.
 
 And back to reality, we've got something similar going on with a toxic subset of Doctor Who fandom whose members have been screaming like cut pigs ever since [Jodie Whittaker got the role back in 2017](https://arstechnica.com/gaming/2017/07/doctor-who-jodie-whittaker-13th-doctor/). Here's a small sample:
 
@@ -72,7 +72,7 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 ...and it's not hard to find more.
 
-> Thankfully, Cinders' contract is up, so you've hired an earlier employee in the hope the mob will be appeased. That'll give you a year to work out what to do when the next contractor picks up the broom...
+> Thankfully, Cinders' contract is up, so you've hired an earlier employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the next contractor you've hired...
 
 ### Splitting quantums?
 
