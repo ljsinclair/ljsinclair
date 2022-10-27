@@ -6,6 +6,8 @@
 * **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 * [Learn about Regeneration](https://en.wikipedia.org/wiki/Regeneration_(Doctor_Who))
 
+> And just so you know, my opinions here are directed squarely at the BBC and showrunner Russell T. Davies. David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. 
+
 ## The 13th Doctor's story has concluded
 
 Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism not experienced by other actors who played The Doctor save for Colin Baker's experiences in the 1980s[^b3d5]. And thanks to Covid-19, she also experienced the first truncated season since 1986[^7abf].
@@ -36,19 +38,15 @@ Had Tennant returned as the [10th Doctor](https://en.wikipedia.org/wiki/Tenth_Do
 
 Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteenth_Doctor), which means he's now had **three** cracks at the role[^7d7e].
 
-> And just so you know, I want to make it clear that David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. My opinions here are directed squarely at the BBC and showrunner Russell T. Davies.
-
-### But he's a fan favourite!
-
-And so is every other actor who's played the part, so let's not get carried away here.
-
 ## Load the canon!
 
 It's said that what's transmitted is canon, the fact of the show, and can't be undone. This means we must respect the premise offered at the conclusion of The Power of The Doctor[^13ed].
 
-### Give the fans what they want!
+### But he's a fan favourite!
 
-The 14th Doctor has the face of the 10th presumably because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
+> And so is every other actor who's played the part, so let's not get carried away here.
+
+Within the narrative we can hypothesise the 14th Doctor has the face of the 10th because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
 
 But rather than give the job to someone who's already had a full run of 3 seasons, a full year of specials **and** appeared in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor), why not appoint someone whose tenure has been patchy as best, for instance:
 * [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) who got a backdoor pilot back in the 1990s, then a ten minute short during the 50th Anniversary; OR
