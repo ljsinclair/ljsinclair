@@ -91,7 +91,7 @@ Put yourself in the festering shoes of some of the haters listed above, because 
 
 Or in other words, the regeneration scene **vindcates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
-And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor, added a year before Ncuti Gatwa gets to step into the role.
+And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor, and also delayed his reappearance so normality can be restored.
 
 ## Leaning OUT on Diversity
 
