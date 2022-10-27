@@ -62,7 +62,9 @@ His hate isn't new[^09e7], and in this case is the result of discoveries reveale
 
 ### Real world parallels
 
-There's interesting real-world parallels here; and when I say *interesting* I'm actually talking about toxic fandom whose members have been screaming like cut pigs ever since [Jodie Whittaker got the role back in 2017](https://arstechnica.com/gaming/2017/07/doctor-who-jodie-whittaker-13th-doctor/). Here's a small sample:
+> Imagine if you will an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and in their opinion, she doesn't sweep the dirt nearly as well as your previous 12 employees.
+
+And back to reality, we've got something similar going on with a toxic subset of Doctor Who fandom whose members have been screaming like cut pigs ever since [Jodie Whittaker got the role back in 2017](https://arstechnica.com/gaming/2017/07/doctor-who-jodie-whittaker-13th-doctor/). Here's a small sample:
 
 * [The drinker on the 13th Doctor](https://www.youtube.com/watch?v=MGWxjHBSn-4)[^29dd]
 * [Not the doctor](https://www.youtube.com/watch?v=82d5SrsPkIg)
@@ -91,15 +93,14 @@ Or in other words, the regeneration scene **vindcates** the opinions of the very
 
 And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor, added a year before Ncuti Gatwa gets to step into the role.
 
+> Thankfully, Cinders' contract is up, so you hire an earlier employee in the hope the mob will be appeased. That'll give you a year to work out how to deal with them because they're going to go ballistic when the next contractor picks up the broom...
+
 ## Leaning OUT on Diversity
 
-In my opinion, the decisions regarding the regeneration scene are **at best** a stunning missed opportunity to lean-in on diversity to make the show better resemble society as a whole.
+In the opinion of this humble scribbler, the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963 deserves better than fans who aggressively pursue a view of racial purity and refuse to let anyone else play in the universe of Doctor Who.
 
-We live in the third decade of the 21st century. Surely we can do better than this?
+And the BBC and showrunners have missed a golden opportunity to **lean-in on diversity** and have the show reflect the variety of faces, genders and genetics we see in the society of the third decade of the 21st century.
 
-But **at worst**, the decisions appease the misogynists, the bigots and the spiteful fans who aggressively pursue racial purity and can't stand to let anyone else play in the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963.
-
-The truth sits somewhere between these extremes as [a character in a different fandom](https://en.wikipedia.org/wiki/List_of_Babylon_5_characters#Kosh_Naranek) once remarked.
 
 [^b3d5]: Believe me when I say, every actor gets bad scripts from time to time. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
 
