@@ -6,7 +6,7 @@
 * **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 * [Learn about Regeneration](https://en.wikipedia.org/wiki/Regeneration_(Doctor_Who))
 
-> And just so you know, my opinions here are directed squarely at the BBC and showrunner Russell T. Davies. David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. 
+> And just so you know, my opinions here are directed squarely at the BBC and showrunner Russell T. Davies. David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much.
 
 ## The 13th Doctor's story has concluded
 
@@ -60,9 +60,9 @@ Jody Whittaker's final adventure involves a complex storyline, which includes at
 
 His hate isn't new[^09e7], and in this case is the result of discoveries revealed in [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children).
 
-### Once upon a time...
+### Art imitates life
 
-> There was an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and in their opinion, she doesn't sweep the dirt nearly as well as your previous 12 employees.
+> Once upon a time, there was an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and they say she doesn't sweep the dirt nearly as well as your previous 12 employees.
 
 And back to reality, we've got something similar going on with a toxic subset of Doctor Who fandom whose members have been screaming like cut pigs ever since [Jodie Whittaker got the role back in 2017](https://arstechnica.com/gaming/2017/07/doctor-who-jodie-whittaker-13th-doctor/). Here's a small sample:
 
@@ -72,7 +72,7 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 ...and it's not hard to find more.
 
-> Thankfully, Cinders' contract is up, so you've hired an earlier employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the next contractor you've hired...
+> Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the next contractor you've hired...
 
 ### Splitting quantum hairs?
 
