@@ -42,10 +42,6 @@ Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteen
 
 It's said that what's transmitted is canon, the fact of the show, and can't be undone. This means we must respect the premise offered at the conclusion of The Power of The Doctor[^13ed].
 
-### But he's a fan favourite!
-
-> And so is every other actor who's played the part, so let's not get carried away here.
-
 Within the narrative we can hypothesise the 14th Doctor has the face of the 10th because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
 
 But rather than give the job to someone who's already had a full run of 3 seasons, a full year of specials **and** appeared in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor), why not appoint someone whose tenure has been patchy as best, for instance:
@@ -53,6 +49,10 @@ But rather than give the job to someone who's already had a full run of 3 season
 * [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor) who has appeared in one full episode and had cameos in three subsequent episodes since then.
 
 Hell, the showrunners don't even have to look very far because they *both* appeared in The Power of The Doctor!
+
+### But he's a fan favourite!
+
+Yeah, and so are [all the other actors to play the part](https://en.wikipedia.org/wiki/The_Doctor_(Doctor_Who)), so let's not get carried away here.
 
 ## The dastardly plan to erase the Doctor
 
