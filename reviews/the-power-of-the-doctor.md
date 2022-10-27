@@ -82,7 +82,7 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 ...and it's not hard to find more.
 
-> Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the guy...
+> Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the next guy...
 
 ### The Continuity is more like *guidelines*...[^4e28]
 
