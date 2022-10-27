@@ -72,6 +72,8 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 ...and it's not hard to find more.
 
+> Thankfully, Cinders' contract is up, so you've hired an earlier employee in the hope the mob will be appeased. That'll give you a year to work out what to do when the next contractor picks up the broom...
+
 And now, thanks to decisions made by showrunner Russell T. Davies for the regeneration scene, it seems all their dreams have come true.
 
 ### Splitting quantums?
@@ -92,8 +94,6 @@ Putting the continuity problem aside for a moment, put yourself in the festering
 Or in other words, the regeneration scene **vindcates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
 And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor, added a year before Ncuti Gatwa gets to step into the role.
-
-> Thankfully, Cinders' contract is up, so you hire an earlier employee in the hope the mob will be appeased. That'll give you a year to work out how to deal with them because they're going to go ballistic when the next contractor picks up the broom...
 
 ## Leaning OUT on Diversity
 
