@@ -78,13 +78,13 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 As part of The Master's dastardly plot, he forces the 13th Doctor to regenerate not only with his appearance but his memories. For a while it looks like The Doctor is dead.
 
-Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangly earring which came in handy during [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils). This is because Time Lords regenerate their **bodies**, **not** their clothes[^9ub5].
+Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangly earring which came in handy during [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils).
 
 But then we get to the regeneration scene right at the end of the episode and not only does David Tennant appear, he's wearing a [suit and overcoat, that looks a lot like his original costume](https://en.wikipedia.org/wiki/Tenth_Doctor#Appearance).
 
-There are a whole bucket of problems with this, not least of which is that it breaks the very continuity that the trolls have been screaming about since 2017.
+There are a whole bucket of problems with this, not least of which is that it breaks the very continuity that the trolls have been screaming about since 2017. For instance that Time Lords regenerate their **bodies**, not their clothes[^9ub5].
 
-But "Fuck continuity," they say, because [Space Jesus is back](https://www.youtube.com/watch?v=pQbaCs4PvF4) to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke), [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**. And best of all, there's no trace of the 13th Doctor, not even her clothing[^dcaa].
+But "Fuck continuity," say the trolls, because [Space Jesus is back](https://www.youtube.com/watch?v=pQbaCs4PvF4) to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke), [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**. And best of all, there's not a trace of the 13th Doctor, not even her clothing[^dcaa].
 
 Or in other words, the regeneration scene **vindicates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
