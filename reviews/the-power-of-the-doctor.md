@@ -105,7 +105,7 @@ And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in
 
 [^t5yh]: A bit like [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
 
-[^7d7e]: Don't believe me? Go back and watch Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)), [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448) where he not only regenerates without changing his face but gets a twin onto the bargain, and now The Power of The Doctor.
+[^7d7e]: Don't believe me? Go back and watch Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)) which results in David Tennant's 10th Doctor, [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448) where the 10th Doctor not only regenerates without changing his face but gets a twin onto the bargain, and now The Power of The Doctor with the 14th Doctor with a strangely familiar face.
 
 [^13ed]: If wishes were horses as they say, especially regarding the past 5 years of online hate from alleged fans.
 
