@@ -82,14 +82,14 @@ But then we get to the regeneration scene right at the end of the episode and no
 
 Putting the continuity problem aside for a moment, put yourself in the festering shoes of some of the haters listed above.
 
-* The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)
+* The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)[^jk8u]
 * The show has been crap since then, but the nadir arrived in 2017 with the despised 13th Doctor, and the show has been run into the ground thanks to showrunner Chris Chibnall who's written utter shit for the entire run.
 * But our prayers are answered and ~~Jesus~~ the 10th Doctor has returned to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke) [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**
 * And best of all, there's no trace of the 13th Doctor, not even her clothing[^dcaa].
 
 Or in other words, the regeneration scene **vindcates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
-And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor.
+And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor, added a year before Ncuti Gatwa gets to step into the role.
 
 ## Leaning OUT on Diversity
 
@@ -99,18 +99,17 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 But **at worst**, the decisions appease the misogynists, the bigots and the spiteful fans who aggressively pursue racial purity and can't stand to let anyone else play in the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963.
 
-The truth, as [a character in a different fandom](https://en.wikipedia.org/wiki/List_of_Babylon_5_characters#Kosh_Naranek) once remarked, is a three-edged sword: Their truth, your truth and what's between.
+The truth sits somewhere between these extremes as [a character in a different fandom](https://en.wikipedia.org/wiki/List_of_Babylon_5_characters#Kosh_Naranek) once remarked.
 
 [^b3d5]: Believe me when I say, every actor gets bad scripts from time to time. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
-
 
 [^7abf]: FYI, [Shada](https://en.wikipedia.org/wiki/Shada_(Doctor_Who)) was abandoned due to industrial action in 1980, and [Colin Baker's final season](https://en.wikipedia.org/wiki/Doctor_Who_(season_23)) was truncated through BBC interference. Jody Whittaker's [Season 13](https://en.wikipedia.org/wiki/Doctor_Who_(series_13)) was severely impacted by the Covid-19 pandemic and health directives from the government and health services.
 
 [^afd3]: I found this utterly bizarre at the time. Surely there is another showrunner in the entire UK that could do the job rather than the Back To The Future return of RTD?
 
-[^7d7e]: Don't believe me? Go back and watch Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)), [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448) where he not only regenerates without changing his face but gets a twin onto the bargain, and now The Power of The Doctor.
+[^t5yh]: A bit like [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
 
-[^jk8u]: In truth, all the actors who have played The Doctor (as well as the companions) have fans, it's not just David.
+[^7d7e]: Don't believe me? Go back and watch Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)), [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448) where he not only regenerates without changing his face but gets a twin onto the bargain, and now The Power of The Doctor.
 
 [^13ed]: If wishes were horses as they say, especially regarding the past 5 years of online hate from alleged fans.
 
@@ -120,6 +119,6 @@ The truth, as [a character in a different fandom](https://en.wikipedia.org/wiki/
 
 [^9ub5]: Zygons are the ones who can do clothes as demonstrated in [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)
 
-[^dcaa]: Because it'd be **ewww** if The Doctor ended up wearing **women's clothing**!
+[^jk8u]: In truth, all the actors who have played The Doctor (as well as the companions) have fans, it's not just David.
 
-[^t5yh]: A bit like [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
+[^dcaa]: Because it'd be **ewww** if The Doctor ended up wearing **women's clothing**!
