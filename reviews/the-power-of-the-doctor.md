@@ -82,8 +82,6 @@ And back to reality, we've got something similar going on with a toxic subset of
 
 ...and it's not hard to find more.
 
-> Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because they're going to go ballistic when they see the next guy...
-
 ### The Continuity is more like *guidelines*...[^4e28]
 
 It's an established fact in the Doctor Who continuity that Time Lords regenerate their **bodies**, not their clothes[^9ub5].
@@ -92,7 +90,9 @@ But "Fuck continuity," say the trolls, because [Space Jesus is back](https://www
 
 Or in other words, the regeneration scene **vindicates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
-And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor, and also delayed his reappearance so normality can be restored.
+And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor.
+
+> Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because the trolls will go ballistic when they see the next guy...
 
 ## Leaning OUT on Diversity
 
