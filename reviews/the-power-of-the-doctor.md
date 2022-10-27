@@ -38,7 +38,9 @@ Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteen
 
 > And just so you know, I want to make it clear that David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much. My opinions here are directed squarely at the BBC and showrunner Russell T. Davies.
 
-### But he's a fan favourite![^jk8u]
+### But he's a fan favourite!
+
+And so is every other actor who's played the part, so let's not get carried away here.
 
 There are a whole bucket of problems in returning **like this**, not least of which is that it breaks the very continuity that certain fans have been screaming about since Jody Whittaker took on the role of the 13th Doctor, and showrunner Chris Chibnall introduced the Timeless Child storyline back in [The Ghost Monument](https://en.wikipedia.org/wiki/The_Ghost_Monument) in 2018.
 
@@ -46,13 +48,15 @@ There are a whole bucket of problems in returning **like this**, not least of wh
 
 It's said that what's transmitted is canon, the fact of the show, and can't be undone. This means we must respect the premise offered at the conclusion of The Power of The Doctor[^13ed].
 
-### Squint and you'll see it
+### Reverting to bite
 
 The 14th Doctor has the face of the 10th presumably because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
 
-And if you're going there, why not give the fans a real surprise and give then a Doctor that has only appeared briefly in other episodes, and never got a full series of their own; say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)? It's not like the showrunners would've had to look far; they both appeared in the episode!
+But rather than give the job to someone who's already had a full run of 3 seasons, a full year of specials **and** appeared in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor), why not appoint someone whose tenure has been patchy as best, for instance:
+* [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) who got a backdoor pilot back in the 1990s, then a ten minute short during the 50th Anniversary; OR
+* [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor) who has appeared in one full episode and had cameos in three subsequent episodes since then.
 
-For my money, either of these would have been far more exciting than Tennant who has already had a full three year run, plus specials on top and an appearance as the 10th in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor).
+Hell, the showrunners don't even have to look very far because they *both* appeared in The Power of The Doctor!
 
 ## The dastardly plan to erase the Doctor
 
@@ -82,11 +86,11 @@ Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangl
 
 But then we get to the regeneration scene right at the end of the episode and not only does David Tennant appear, he's wearing a [suit and overcoat, that looks a lot like his original costume](https://en.wikipedia.org/wiki/Tenth_Doctor#Appearance).
 
-And it's Christmas for the haters because for them:
+And it's Christmas for the haters because in their minds:
 
-* The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)[^jk8u]
+* The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)
 * The show has been crap since then, but the nadir arrived in 2017 with the despised 13th Doctor, and the show has been run into the ground thanks to showrunner Chris Chibnall who's written utter shit for the entire run.
-* But our prayers are answered and ~~Jesus~~ the 10th Doctor has returned to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke) [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**
+* And now ~~Jesus~~ the 10th Doctor has returned to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke), [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**
 * And best of all, there's no trace of the 13th Doctor, not even her clothing[^dcaa].
 
 Or in other words, the regeneration scene **vindcates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
@@ -117,7 +121,5 @@ And by delaying Ncuti Gatwa's appointment as the **next** Doctor as promised in 
 [^29dd]: And Pro-Tip to The Drinker if you're reading: stating an opinion is fine; misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
 
 [^9ub5]: Zygons are the ones who can do clothes as demonstrated in [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)
-
-[^jk8u]: In truth, all the actors who have played The Doctor (as well as the companions) have fans, it's not just David.
 
 [^dcaa]: Because it'd be **ewww** if The Doctor ended up wearing **women's clothing**!
