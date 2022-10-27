@@ -70,7 +70,7 @@ But then we get to the regeneration scene right at the end of the episode and no
 
 There are a whole bucket of problems with this, not least of which is that it breaks the very continuity that the trolls have been screaming about since 2017.
 
-### Don't feed the trolls
+## Don't feed the trolls
 
 > Once upon a time, there was an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and they say she doesn't sweep the dirt nearly as well as your previous 12 employees.
 
