@@ -1,11 +1,14 @@
 # Leaning out on Diversity
 ## My analysis of the last 10 seconds of The Power of The Doctor
 
-**SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
+## Before you read on
 
-Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism not experienced by other actors who played The Doctor save for Colin Baker's experiences in the 1980s[^b3d5].
+* **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
+* [Learn about Regeneration](https://en.wikipedia.org/wiki/Regeneration_(Doctor_Who))
 
-Not only that, she experienced the first truncated season since Colin's run, too[^7abf]. 
+## The 13th Doctor's story has concluded
+
+Jody Whittaker's run as the 13th Doctor hasn't been easy, and like the first of **anyone** in a role, she's been subject to criticism not experienced by other actors who played The Doctor save for Colin Baker's experiences in the 1980s[^b3d5]. And thanks to Covid-19, she also experienced the first truncated season since 1986[^7abf].
 
 Her final episode, The Power of The Doctor was a rollercoaster of emotion, funny, exciting, scary and at the end I was genuinely sad to see her leave the role.
 
@@ -20,14 +23,16 @@ From a purely observational standpoint, here's the situation as I see it.
 * [Jody finished filming her run back in 2021](https://collider.com/doctor-who-jodie-whittaker-regeneration-scene-comments/).
 * This was the close of her era and she didn't hand-over to a new Doctor at the time because one hadn't been chosen.
 * [Ncuti Gatwa was announced in May 2022 as the next actor to play the coveted role](https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor) by returning showrunner Russell T. Davies[^afd3].
-* [David Tennant and Catherine Tate will be returning in 2023 for three specials to celebrate the show's 60th anniversary](https://www.doctorwho.tv/news-and-features/david-tennant-catherine-tate-return).
-* Yet at the conclusion of The Power of The Doctor, Jody's 13th Doctor regenerated into... David Tennant?!
+* After leaving the show in 2010, [David Tennant and Catherine Tate will be returning in 2023 for three specials to celebrate the show's 60th anniversary](https://www.doctorwho.tv/news-and-features/david-tennant-catherine-tate-return).
+* And at the conclusion of The Power of The Doctor, Jody's 13th Doctor regenerated into... David Tennant?!
 
 **What**, indeed.
 
-## Awesome! David Tennant is back!
+## Good intentions and the road to hell
 
-Had Tennant had returned as the 10th Doctor, I'd be all in. It's really cool to "discover" episodes of a show's run you've never seen (and I get that in this case, they're brand new episodes).
+I expect that on paper, the idea to have David Tennant return to the role of The Doctor after 12 years absence would have looked like it was made of **solid WIN**[^t5yh]. I mean, there he is, he loves the role and his era is held to be a high-point in the same way as Tom Baker's was from the perspective of the 1980s.
+
+Had Tennant returned as the [10th Doctor](https://en.wikipedia.org/wiki/Tenth_Doctor), I'd be all in. It's really cool to "discover" episodes of a show's run you've never seen (and I get that in this case, they're brand new episodes).
 
 Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteenth_Doctor), which means he's now had **three** cracks at the role[^7d7e].
 
@@ -39,17 +44,23 @@ There are a whole bucket of problems in returning **like this**, not least of wh
 
 ## Load the canon!
 
-The Master's dastardly plan to **erase** The Doctor from the universe in The Power of The Doctor is an extension of this incarnation's hatred which began with [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children). And it's not a new sentiment by the way[^09e7].
+It's said that what's transmitted is canon, the fact of the show, and can't be undone. This means we must respect the premise offered at the conclusion of The Power of The Doctor[^13ed].
 
-It's said that what's transmitted is canon, the fact of the show, and can't be undone. With this in mind, we have to accept the premise that the 14th Doctor has come about because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
+### Squint and you'll see it
+
+The 14th Doctor has the face of the 10th presumably because of the Master's meddling in The Power of The Doctor. Call it a **Reversion** rather than a **Regeneration** if you like.
 
 And if you're going there, why not give the fans a real surprise and give then a Doctor that has only appeared briefly in other episodes, and never got a full series of their own; say for instance [Paul McGann's 8th Doctor](https://en.wikipedia.org/wiki/Eighth_Doctor) or [Jo Martin's Fugitive Doctor](https://en.wikipedia.org/wiki/Fugitive_Doctor)? It's not like the showrunners would've had to look far; they both appeared in the episode!
 
 For my money, either of these would have been far more exciting than Tennant who has already had a full three year run, plus specials on top and an appearance as the 10th in the 50th anniversary special [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor).
 
-### Erasing The Doctor
+## The dastardly plan to erase the Doctor
 
-The Master's hate is directed at the 13th Doctor, and it is she who is responsible for saving all her incarnations from erasure. 
+Jody Whittaker's final adventure involves a complex storyline, which includes attempts by her nemesis [The Master](https://en.wikipedia.org/wiki/The_Master_(Doctor_Who)) played by Sacha Dhawan to erase all incarnations of The Doctor from existence.
+
+His hate isn't new[^09e7], and in this case is the result of discoveries revealed in [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children).
+
+### Real world parallels
 
 There's interesting real-world parallels here; and when I say *interesting* I'm actually talking about toxic fandom whose members have been screaming like cut pigs ever since [Jodie Whittaker got the role back in 2017](https://arstechnica.com/gaming/2017/07/doctor-who-jodie-whittaker-13th-doctor/). Here's a small sample:
 
@@ -59,29 +70,36 @@ There's interesting real-world parallels here; and when I say *interesting* I'm 
 
 ...and it's not hard to find more.
 
-And now it seems all their dreams have come true.
+And now, thanks to decisions made by showrunner Russell T. Davies for the regeneration scene, it seems all their dreams have come true.
 
-If the 14th Doctor appeared in the 13th Doctor's clothing -- just like The Master did during the episode, right down to the dangly earring that came in so handy in [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils) -- then the 14th would be the **successor** to the 13th Doctor. And this is because it's established that Time Lord **bodies** regenerate, **not** their clothes[^9ub5].
+### Splitting quantums?
 
-But here, the 13th Doctor has been swiped away, disappeared. The rules of regeneration have been discarded, and now the 10th Doctor has returned, pretty much just as he looked like when we last saw him, to presumably steady the ship and return the show to its halcyon days[^66b7].
+As part of The Master's dastardly plot, he forces the 13th Doctor to regenerate not only with his appearance but his memories. For a while it looks like The Doctor is dead.
 
-Call me cynical, but I think this looks like a case of **appeasement** by the showrunners, and this means the poisonous fandom can feel **vindicated** because RTD and the BBC appear to have accepted their opinions regarding the 13th Doctor and Jody Whittaker.
+Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangly earring which came in handy during [The Legend of the Sea Devils](https://en.wikipedia.org/wiki/Legend_of_the_Sea_Devils). This is because Time Lords regenerate their **bodies**, **not** their clothes[^9ub5].
 
-## Good intentions and the road to hell
+But then we get to the regeneration scene right at the end of the episode and not only does David Tennant appear, he's wearing a [suit and overcoat, that looks a lot like his original costume](https://en.wikipedia.org/wiki/Tenth_Doctor#Appearance).
 
-I expect that on paper, the idea to cast David Tennant as the 14th Doctor looked like it was made of **solid WIN**[^t5yh]. I mean, there he is, he loves the role and his era is held to be a high-point in the same way as Tom Baker's was from the perspective of the 1980s. And of course, regenerations are **supposed** to shake things up, right?
+Putting the continuity problem aside for a moment, put yourself in the festering shoes of some of the haters listed above.
 
-Except by handling the regeneration like this, it feels like The Evil Sisters have rammed Jody Whittaker's Cinderella back under the staircase in the hope that the pitchfork and torch mob won't burn the place down because they're insensed that Cinders doesn't sweep up nearly as well as the last twelve blokes in the job. And not only that, Cinders won't get to hand the broom to the new guy, because the Evil Sisters have hired the Tenth guy to show him how it's done.
+* The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)
+* The show has been crap since then, but the nadir arrived in 2017 with the despised 13th Doctor, and the show has been run into the ground thanks to showrunner Chris Chibnall who's written utter shit for the entire run.
+* But our prayers are answered and ~~Jesus~~ the 10th Doctor has returned to vanquish all the [Woke](https://en.wikipedia.org/wiki/Woke) [Social Justice Warriors](https://fee.org/articles/how-the-term-social-justice-warrior-became-an-insult/) and restore the show to its former glories! **Hallelujah!!**
+* And best of all, there's no trace of the 13th Doctor, not even her clothing[^dcaa].
 
-Or to put it more bluntly, the BBC and showrunners have created the perception that toxic fandom is right, that Jody's run can be sidelined and they'd rather re-establish the dominant, traditional appearance and gender of The Doctor. And only when normality is restored will David hand over the role Ncuti was promised back in May 2022. 
+Or in other words, the regeneration scene **vindcates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
+
+And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor.
 
 ## Leaning OUT on Diversity
 
-Diversity has finally got its time in the sun and this is reflected in casting choices across the board, not just Jody Whittaker and Ncuti Gatwa. There's a long way to go of course, but at least we're seeing a better representation of the real world.
-
-However the decisions that led to the 14th Doctor's appearance are in my opinion, a stunning missed opportunity to lean in on diversity, to let **everyone** have a Doctor that looks like them. 
+In my opinion, the decisions regarding the regeneration scene are **at best** a stunning missed opportunity to lean-in on diversity to make the show better resemble society as a whole.
 
 We live in the third decade of the 21st century. Surely we can do better than this?
+
+But **at worst**, the decisions appease the misogynists, the bigots and the spiteful fans who aggressively pursue racial purity and can't stand to let anyone else play in the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963.
+
+The truth, as [a character in a different fandom](https://en.wikipedia.org/wiki/List_of_Babylon_5_characters#Kosh_Naranek) once remarked, is a three-edged sword: Their truth, your truth and what's between.
 
 [^b3d5]: Believe me when I say, every actor gets bad scripts from time to time. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
 
@@ -94,12 +112,14 @@ We live in the third decade of the 21st century. Surely we can do better than th
 
 [^jk8u]: In truth, all the actors who have played The Doctor (as well as the companions) have fans, it's not just David.
 
+[^13ed]: If wishes were horses as they say, especially regarding the past 5 years of online hate from alleged fans.
+
 [^09e7]: The Master has taken pot-shots at The Doctor before, just watch [Logopolis](https://en.wikipedia.org/wiki/Logopolis) or [Castrovalva](https://en.wikipedia.org/wiki/Castrovalva_(Doctor_Who)) from 1981 if you don't believe me.
 
 [^29dd]: And Pro-Tip to The Drinker if you're reading: stating an opinion is fine; misrepresentations are not. It took me five minutes to find online articles that refute every single accusation you made against Jody Whittaker and Chris Chibnall from the 4:25 mark. You should try it some time.
 
 [^9ub5]: Zygons are the ones who can do clothes as demonstrated in [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)
 
-[^66b7]: Nostalgia is great and seeing a previous Doctor back on screen is a very enjoyable thing. But there are limits you have to establish in order to move the story and the production forward. I'd love to see more of Matt Smith's Doctor, mainly because in my head-canon, he's ADHD just like me. But it's not possible in practice, not least of which is he's an actor who's got to work.
+[^dcaa]: Because it'd be **ewww** if The Doctor ended up wearing **women's clothing**!
 
 [^t5yh]: A bit like [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
