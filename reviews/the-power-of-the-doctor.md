@@ -82,7 +82,7 @@ Importantly, The Master ends up wearing the 13th Doctor's outfit, plus the dangl
 
 But then we get to the regeneration scene right at the end of the episode and not only does David Tennant appear, he's wearing a [suit and overcoat, that looks a lot like his original costume](https://en.wikipedia.org/wiki/Tenth_Doctor#Appearance).
 
-Put yourself in the festering shoes of some of the haters listed above, because it seems all their dreams have come true:
+And it's Christmas for the haters because for them:
 
 * The 10th Doctor was the best of all time (save for Tom Baker in the 1970s)[^jk8u]
 * The show has been crap since then, but the nadir arrived in 2017 with the despised 13th Doctor, and the show has been run into the ground thanks to showrunner Chris Chibnall who's written utter shit for the entire run.
@@ -95,7 +95,7 @@ And to add insult to injury, by re-establishing the character's dominant, tradit
 
 ## Leaning OUT on Diversity
 
-In the opinion of this humble scribbler, the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963 deserves better than fans who aggressively pursue a view of racial purity and refuse to let anyone else play in the universe of Doctor Who.
+In the opinion of this humble scribbler, the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963 deserves better than fans who aggressively pursue a view of racial and sexual purity and refuse to let anyone else play in the universe of Doctor Who.
 
 And by delaying Ncuti Gatwa's appointment as the **next** Doctor as promised in May 2022, the BBC and showrunners have missed a golden opportunity to **lean-in on diversity**, and have the show reflect the variety of faces, genders and genetics we see in the society of the third decade of the 21st century.
 
