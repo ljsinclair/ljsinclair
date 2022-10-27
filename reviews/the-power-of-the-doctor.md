@@ -60,7 +60,7 @@ Jody Whittaker's final adventure involves a complex storyline, which includes at
 
 His hate isn't new[^09e7], and in this case is the result of discoveries revealed in [Spyfall](https://en.wikipedia.org/wiki/Spyfall_(Doctor_Who)) then continued into [The Timeless Children](https://en.wikipedia.org/wiki/The_Timeless_Children).
 
-### Real world parallels
+### Once upon a time...
 
 > Imagine if you will an angry mob of Tiki-torch wielding trolls threatening to burn your hovel down. They're protesting because you've hired Cinderella and in their opinion, she doesn't sweep the dirt nearly as well as your previous 12 employees.
 
