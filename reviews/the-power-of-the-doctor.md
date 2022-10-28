@@ -6,6 +6,7 @@
 * **SPOILER ALERT** Read **no** further if you haven't watched  [The Power of The Doctor](https://en.wikipedia.org/wiki/The_Power_of_the_Doctor)
 * [Learn about Regeneration](https://en.wikipedia.org/wiki/Regeneration_(Doctor_Who))
 
+
 > And just so you know, my opinions here are directed squarely at the BBC and showrunner Russell T. Davies. David Tennant has every right to accept roles he wants to take, especially one he clearly loves so much.
 
 ## The 13th Doctor's story has concluded
@@ -37,6 +38,10 @@ I expect that on paper, the idea to have David Tennant return to the role of The
 Had Tennant returned as the [10th Doctor](https://en.wikipedia.org/wiki/Tenth_Doctor), I'd be all in. It's really cool to "discover" episodes of a show's run you've never seen (and I get that in this case, they're brand new episodes).
 
 Except [David Tennant is the 14th Doctor](https://en.wikipedia.org/wiki/Fourteenth_Doctor), which means he's now had **three** cracks at the role[^7d7e].
+
+And the fact this occurred during the UK's [Black History Month](https://www.blackhistorymonth.org.uk/article/section/news/black-history-month-resource-pack-2022/) makes the decision a real head-scratcher.
+
+That's because [Ncugi Gatwa is, in fact, a Black man](https://en.wikipedia.org/wiki/Ncuti_Gatwa)[^e0f8].
 
 ## Load the canon!
 
@@ -90,7 +95,7 @@ But "Fuck continuity," say the trolls, because [Space Jesus is back](https://www
 
 Or in other words, the regeneration scene **vindicates** the opinions of the very toxic fandom that has plagued the entire run of Jody Whittaker's Doctor.
 
-And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first black male Doctor.
+And to add insult to injury, by re-establishing the character's dominant, traditional appearance, the showrunners have prevented another first for the show: the first female Doctor regenerating into the first Black male Doctor.
 
 > Thankfully, Cinders' contract is up, so you've hired a former employee in the hope the mob will be appeased. That'll give you a year to prepare, because the trolls will go ballistic when they see the next guy...
 
@@ -98,7 +103,7 @@ And to add insult to injury, by re-establishing the character's dominant, tradit
 
 In the opinion of this humble scribbler, the world established by [Verity Lambert](https://en.wikipedia.org/wiki/Verity_Lambert) and [Waris Hussein](https://www.doctorwho.tv/news-and-features/doctor-whos-first-director-the-doctor-solves-peoples-loneliness) back in 1963 deserves better than fans who aggressively pursue a view of racial and sexual purity and refuse to let anyone else play in the universe of Doctor Who.
 
-And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in May 2022, the BBC and showrunners have missed a golden opportunity to **lean-in on diversity**, and have the show reflect the variety of faces, genders and genetics we see in the society of the third decade of the 21st century.
+And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in May 2022, the BBC and showrunners have missed a golden opportunity to **lean-in on diversity** during Black History Month, and continue to reflect the variety of faces, genders and genetics we see in the society of the third decade of the 21st century.
 
 
 [^b3d5]: Believe me when I say, every actor gets bad scripts from time to time. For every [Orphan 55](https://en.wikipedia.org/wiki/Orphan_55) there is a [Love and Monsters](https://en.wikipedia.org/wiki/Love_%26_Monsters), a [Planet of the Dead](https://en.wikipedia.org/wiki/Planet_of_the_Dead), an [End of time](https://en.wikipedia.org/wiki/The_End_of_Time_(Doctor_Who)), a [Kill the Moon](https://en.wikipedia.org/wiki/Kill_the_Moon), [Sleep No More](https://en.wikipedia.org/wiki/Sleep_No_More_(Doctor_Who)) and a [The Lie of the Land](https://en.wikipedia.org/wiki/The_Lie_of_the_Land).
@@ -110,6 +115,8 @@ And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in
 [^t5yh]: A bit like [the finale of Battlestar Galactica](https://en.wikipedia.org/wiki/Daybreak_(Battlestar_Galactica)) or [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(2012_film)) to name but two.
 
 [^7d7e]: Don't believe me? Go back and watch Christopher Eccleston's swansong, [Journey's End](https://en.wikipedia.org/wiki/Journey%27s_End_(Doctor_Who)) which results in David Tennant's 10th Doctor, [The Parting of the Ways, season 1, ep 13](https://thetvdb.com/series/doctor-who-2005/episodes/371448) where the 10th Doctor not only regenerates without changing his face but gets a twin onto the bargain, and now The Power of The Doctor where we get a 14th Doctor with a strangely familiar face.
+
+[^e0f8]: Barbara Blake-Hannah suggests we use a capital "B" when referring to Black people in this article: [My Black skin got me sacked from British TV. That’s why I spend my life fighting racism](https://www.theguardian.com/commentisfree/2022/oct/27/black-skin-sacked-british-tv-racism)
 
 [^13ed]: If wishes were horses as they say, especially regarding the past 5 years of online hate from alleged fans.
 
