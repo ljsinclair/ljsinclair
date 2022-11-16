@@ -130,4 +130,4 @@ And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in
 
 [^dcaa]: Because it'd be **ewww** if The Doctor ended up wearing **women's clothing**!
 
-**EDIT** It's now come to light that Russell T. Davies decided to have David Tennant regenerate in a different costume to [avoid giving bigots fuel.](https://gizmodo.com/doctor-who-david-tennant-regeneration-clothes-bigots-1849780477). And you know what, *maybe* this is another of those cases of *best intentions* going awry because no-one thought that by erasing the 13th Doctor so completely, they'd given the bigots **EXACTLY WHAT THEY WANTED**! *Sigh*
+**EDIT 2022-11-16** It's now come to light that Russell T. Davies decided to have David Tennant regenerate in a different costume to [avoid giving bigots fuel](https://gizmodo.com/doctor-who-david-tennant-regeneration-clothes-bigots-1849780477). And you know what, *maybe* this is another of those cases of *best intentions* going awry because no-one thought that by erasing the 13th Doctor so completely, they'd given the bigots **EXACTLY WHAT THEY WANTED**! *Sigh*
