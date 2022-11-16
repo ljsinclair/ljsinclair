@@ -57,7 +57,7 @@ Hell, the showrunners don't even have to look very far because they *both* appea
 
 ### But he's a fan favourite!
 
-Yeah, and so are [all the other actors to play the part](https://en.wikipedia.org/wiki/The_Doctor_(Doctor_Who)), so let's not get carried away here.
+Yeah, and so are [all the other actors to play the part](https://en.wikipedia.org/wiki/The_Doctor_(Doctor_Who)), so let's not get carried away here. Oh, and there were seven of them in the episode, not including the 14th Doctor.
 
 ## The dastardly plan to erase the Doctor
 
@@ -129,3 +129,5 @@ And by delaying Ncuti Gatwa's appointment as the **next** Doctor as announced in
 [^9ub5]: Zygons are the ones who can do clothes as demonstrated in [The Day of The Doctor](https://en.wikipedia.org/wiki/The_Day_of_the_Doctor)
 
 [^dcaa]: Because it'd be **ewww** if The Doctor ended up wearing **women's clothing**!
+
+**EDIT** It's now come to light that Russell T. Davies decided to have David Tennant regenerate in a different costume to [avoid giving bigots fuel.](https://gizmodo.com/doctor-who-david-tennant-regeneration-clothes-bigots-1849780477). And you know what, *maybe* this is another of those cases of *best intentions* going awry because no-one thought that by erasing the 13th Doctor so completely, they'd given the bigots **EXACTLY WHAT THEY WANTED**! *Sigh*
