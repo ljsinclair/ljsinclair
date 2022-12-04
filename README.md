@@ -22,7 +22,7 @@ To paraphrase  [Charlie Taub (Vadim Glowna)](https://en.wikipedia.org/wiki/Vadim
 
 ## But why isn't it pretty?
 
-A lot of websites are like those blockbuster movies where the story and plot **serve** the flashy Special Effects (SFX).
+A lot of websites are like those blockbuster movies where the story and plot **serve** the flashy Special Effects (SFX). They look all whiz-bang but lack substance.
 
 But from a writing point of view, this approach puts aesthetics before function.
 
