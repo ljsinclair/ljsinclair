@@ -30,5 +30,5 @@ It is also found in Task Manager > Startup, but **not** the startup folder:
 
 ## Solution
 
-* Open Task Manager > Startup
-* RH-click **Update** and disable.
+* Open Task Manager > Startup.
+* RH-click **Update** > choose **Disable**.
