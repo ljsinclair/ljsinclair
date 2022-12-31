@@ -6,7 +6,7 @@
 |---|---|
 | General purpose advice and information | [How to ADHD](https://www.youtube.com/@HowtoADHD) |
 | Adult ADHD | [ADHD foundation - Adults page](https://adhdfoundation.org.au/adhd-adults)<br/>[ADHD support Australia - Adults page](https://www.adhdsupportaustralia.com.au/what-is-adhd/adult-adhd/) |
-| ADHD stimulant medication works because... | [How to ADHD > Stimulant medication helps ADHD](https://www.youtube.com/watch?v=38qpm6VKBFc) |
+| ADHD stimulant medication works because... | [Why stimulants help ADHD](https://www.youtube.com/watch?v=yoX0vEDn5a4) |
 
 ## ADHD in the news
 
