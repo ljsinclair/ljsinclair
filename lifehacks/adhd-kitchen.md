@@ -17,3 +17,7 @@ Or to put it another way, if I can't see it, it doesn't exist.
 
 1. Keep things you need for tasks grouped together (e.g., tea/coffee with kettle, cutlery on the table, tools for making food by the cooker)
 2. Keep everything visible at all times.
+
+## See also
+
+* [How to ADHD > ADHD friendly home tour](https://www.youtube.com/watch?v=posZhu_YIl0)
