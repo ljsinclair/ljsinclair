@@ -6,7 +6,9 @@
 |---|---|
 | General purpose advice and information | [How to ADHD](https://www.youtube.com/@HowtoADHD) |
 | Adult ADHD | [ADHD foundation - Adults page](https://adhdfoundation.org.au/adhd-adults)<br/>[ADHD support Australia - Adults page](https://www.adhdsupportaustralia.com.au/what-is-adhd/adult-adhd/) |
-| ADHD stimulant medication works because... | [Why stimulants help ADHD](https://www.youtube.com/watch?v=yoX0vEDn5a4) |
+| ADHD stimulant medication | [Why stimulants help ADHD](https://www.youtube.com/watch?v=yoX0vEDn5a4) |
+| Sleeping issues | [SciShow psych > links between ADHD and sleeping issues](https://www.youtube.com/watch?v=7Eb-0VYN0k8) |
+| Focusing on tasks/forgetfulness | [Dr. Russell Barkly on Executive function](https://www.youtube.com/watch?v=GR1IZJXc6d8)<br/>[ADHD Australia > Executive function](https://www.adhdaustralia.org.au/about-adhd/the-role-of-executive-functioning-in-adhd/) |
 
 ## ADHD in the news
 
