@@ -1,6 +1,12 @@
-# ADHD information that can help anyone
+# ADHD links
+
+These links are ADHD specific and help explain different aspects of what's involved. Some may be of help even if you **don't** have the condition.
+
+> **ALWAYS** consult a doctor if you're concerned about symptoms and behaviours.
 
 ## Advice and information
+
+These links provide information on **POSSIBLE** causes of different issues.
 
 | Subject | Links |
 |---|---|
