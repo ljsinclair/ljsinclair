@@ -1,9 +1,17 @@
 # I've lost my [insert thing here] and it's driving me crazy!
 
-There's a measure of Cognitive Behavioural Therapy (CBT) to this.
+## Issue
 
-What I do is I have a little box that I **always** put keys and wallet into.
+ARGH! I can't find my stuff and I need it **now**!
 
-This is placed close to the front door.
+It's **so** frustrating, and takes enormous time to find things.
 
-And when I walk in, I drop the keys and wallet into that.
+## Solution
+
+There's a measure of self-imposed Cognitive Behavioural Therapy (CBT) to this.
+
+I have a little box that I keep by the door. In my case it's a jewellery box, but it could be anything.
+
+When I walk in, I drop keys, cards, money into the box.
+
+When I walk out, I pick them up and go about my day.
