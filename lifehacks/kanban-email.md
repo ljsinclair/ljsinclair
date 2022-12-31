@@ -4,6 +4,8 @@ title: Kanban email
 
 ## kanban email
 
+* [learn about kanban](https://en.wikipedia.org/wiki/Kanban_(development))
+
 I find email an interminable experience, and difficult to use at the best of times. Threaded conversations don't help, neither does tagging, multiple folders to organise, or anything else for that matter.
 
 However, I've encountered Kanban working in the IT industry and as long as it doesn't get too cluttered, makes seeing the status of different items far easier.
