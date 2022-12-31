@@ -1,6 +1,4 @@
----
-title: Managing short and long-term tasks
----
+# Managing short and long-term tasks
 
 * [learn about kanban](https://en.wikipedia.org/wiki/Kanban_(development))
 

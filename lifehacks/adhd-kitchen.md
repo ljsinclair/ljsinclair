@@ -1,6 +1,4 @@
----
-title:
-
+# ADHD Kitchen
 
 I find kitchens an absolute nightmare. Design aside, cupboards and drawers conceal what's there, which means I don't know what's there without deliberately looking.
 

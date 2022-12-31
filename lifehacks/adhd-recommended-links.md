@@ -1,6 +1,4 @@
----
-title: ADHD information that can help anyone
----
+# ADHD information that can help anyone
 
 ## Advice and information
 

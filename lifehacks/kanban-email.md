@@ -1,6 +1,4 @@
----
-title: Kanban email
----
+# Kanban email
 
 ## kanban email
 
