@@ -1,4 +1,8 @@
-# Lisa Sinclair - Writer
+---
+export-path: 'resume-lisa.sinclair.docx'
+export-format: 'docx'
+title: 'Lisa Sinclair - Writer'
+---
 
 | Email | Phone | Online |
 |---|---|---|
