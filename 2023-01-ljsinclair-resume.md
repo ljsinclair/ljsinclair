@@ -36,7 +36,7 @@ Lisa has experience writing content using traditional tools such as MS Word, and
 
 ## Technical Writing experience
 
-### Featurebase - October 2022 to present
+### FeatureBase - October 2022 to present
 
 * Review all existing documentation and create plan for restructure, rewrites and updates.
 * Research then implement new GitHub Jekyll content delivery system for new documentation, plus page structure for different content categories
