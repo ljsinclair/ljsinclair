@@ -1,4 +1,4 @@
-# Markdown to document conversion using Pandoc
+# Convert Markdown to .docx using Pandoc, Pulsar edit and packages
 
 This solution works for [Pulsar edit](https://pulsar-edit.dev) which is an open-source fork of the now discontinued Atom editor.
 
