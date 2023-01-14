@@ -4,14 +4,15 @@ Pulsar's core functionality can be extended by installing packages written by pe
 
 ## Navigating big files
 
-Minimap gives a zoomed-out representation of file content which is a little easier to use than a simple scrollbar.
+*Minimap* gives a zoomed-out representation of file content which is a little easier to use than a simple scrollbar.
 
 * [Minimap](https://web.pulsar-edit.dev/packages/minimap)
 * [Minimap lens](https://web.pulsar-edit.dev/packages/minimap-lens) extends that again by giving a magnifying-glass view when you mouse over the Minimap representation.
 
 ## Backup and restore your pulsar-edit environment
 
-These packages allow you to backup and restore your pulsar-edit environment including:
+*Sync settings* and *Sync settings to Github* allow you to backup and restore your pulsar-edit environment including:
+
 * Pulsar settings
 * Pulsar configuration
 * Themes
@@ -22,11 +23,13 @@ The benefit of this approach is you can restore your settings with the click of 
 * [sync settings package](https://web.pulsar-edit.dev/packages/sync-settings) -- a package that allows you to backup and restore all the above to a directory on your network
 * [sync settings to Github](https://web.pulsar-edit.dev/packages/sync-settings-git-location) -- extends Sync Settings so you can backup to Git
 
+NOTE: There's also other *sync-settings to [destination]* packages available if Git isn't your preferred destination.
+
 ## Load and save specific projects in the project tree
 
 I find it useful to keep work, volunteering and personal projects separate.
 
-Save workplace allows you to:
+*Save workplace* allows you to:
 * save a collection of project folders under a specified workspace name
 * alternate between workspaces
 * save changes to workspaces under an existing or new name
@@ -35,11 +38,14 @@ Save workplace allows you to:
 
 ## Which Git branch am I in?
 
-Git integration in Pulsar-edit is IMO far better than competing applications like VSCode[^903b]. The tabs are IMO easier to understand, and it provides additional information on the Pulsar edit toolbar, such as the current branch.
+Git integration in Pulsar-edit is IMO far better than competing applications. I find the tabs easier to understand and it uses the status bar to provide additional information and functionality.
 
-I've found it useful to also have the branch represented in the project tree view. That's where Tree view git status comes in handy.
+It's also useful to see the current branch of projects in the tree view.
+
+That's where *Tree view git status* comes in handy.
 
 * [Tree view git status](https://web.pulsar-edit.dev/packages/tree-view-git-status)
 
----
-[^903b]: Ironically enough, Pulsar-edit is a fork of Atom editor, which was retired by Github (and Microsoft) in favour of VSCode.
+## See also
+
+* [essential packages for writers](https://github.com/ljsinclair/ljsinclair/blob/main/pulsar-edit/pulsar-essential-writers.md)
