@@ -11,7 +11,7 @@ Pulsar's core functionality can be extended by installing packages written by pe
 
 ## Backup and restore your pulsar-edit environment
 
-*Sync settings* and *Sync settings to Github* allow you to backup and restore your pulsar-edit environment including:
+*Sync settings* and *Sync settings to Git* allow you to backup and restore your pulsar-edit environment including:
 
 * Pulsar settings
 * Pulsar configuration
@@ -23,7 +23,7 @@ The benefit of this approach is you can restore your settings with the click of 
 * [sync settings package](https://web.pulsar-edit.dev/packages/sync-settings) -- a package that allows you to backup and restore all the above to a directory on your network
 * [sync settings to Github](https://web.pulsar-edit.dev/packages/sync-settings-git-location) -- extends Sync Settings so you can backup to Git
 
-NOTE: There's also other *sync-settings to [destination]* packages available if Git isn't your preferred destination.
+NOTE: There's also other *sync-settings to [destination]* packages available if Git isn't your preference.
 
 ## Load and save specific projects in the project tree
 
@@ -33,6 +33,8 @@ I find it useful to keep work, volunteering and personal projects separate.
 * save a collection of project folders under a specified workspace name
 * alternate between workspaces
 * save changes to workspaces under an existing or new name
+
+Changes are saved to the pulsar edit `config.cson` file.
 
 * [save workspace](https://web.pulsar-edit.dev/packages/save-workspace)
 
