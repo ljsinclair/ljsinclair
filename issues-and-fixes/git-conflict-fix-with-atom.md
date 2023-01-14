@@ -16,6 +16,7 @@ On the command line:
 
 ```
 cd [repo-directory]
+git checkout main
 git checkout [branchname]
 git merge main
 ```
