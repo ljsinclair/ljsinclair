@@ -71,7 +71,7 @@ IMPORTANT: I also needed to [install Python](https://www.python.org/downloads/) 
 
 ## But I just want to output to PDF!
 
-There's a package for that, too!
+There's a package for that!
 
 * [markdown-pdf](https://web.pulsar-edit.dev/packages/markdown-pdf)
 
@@ -79,7 +79,7 @@ There's a package for that, too!
 
 ### Deactivate autocomplete
 
-Some people find autocomplete useful, but I find it distracting.
+Some people find autocomplete useful, but I find it distracting so disabled it.
 
 * Click Packages > Open Package Manager.
 * Enter *autocomplete-plus* into the filter field
