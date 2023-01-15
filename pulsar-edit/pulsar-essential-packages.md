@@ -7,7 +7,7 @@ Pulsar's core functionality can be extended by installing packages written by pe
 *Minimap* gives a zoomed-out representation of file content which is a little easier to use than a simple scrollbar.
 
 * [Minimap](https://web.pulsar-edit.dev/packages/minimap)
-* [Minimap lens](https://web.pulsar-edit.dev/packages/minimap-lens) extends that again by giving a magnifying-glass view when you mouse over the Minimap representation.
+* [Minimap lens](https://web.pulsar-edit.dev/packages/minimap-lens) extends that again by giving a magnifying-glass view of where the mouse pointer is on the Minimap representation.
 
 ## Backup and restore your pulsar-edit environment
 

@@ -1,8 +1,6 @@
 # Essential packages for writers using pulsar edit
 
-I've been using Pulsar edit (and predecessor Atom edit) to write markdown content for about five years and have found these packages essential to my workflow.
-
-They're in addition to the [pulsar essential packages](https://github.com/ljsinclair/ljsinclair/blob/main/pulsar-edit/pulsar-essential-writers.md) I also use.
+I've been using Pulsar edit (and predecessor Atom edit) to write markdown content for about five years and find these packages essential to my workflow.
 
 ## Core packages that are really useful
 
@@ -27,7 +25,7 @@ This is a nice core feature and you can choose a locale (regional language), plu
 * a random character designation
 * a paired footnote at the end of the file
 
-Footnotes are Pandoc ready, and also work on Github.
+Footnotes are [Pandoc ready](https://pandoc.org/MANUAL.html#extension-footnotes), and also work on GitHub.
 
 * [Markdown footnote](https://web.pulsar-edit.dev/packages/markdown-footnote)
 
@@ -44,7 +42,7 @@ Sometimes it's useful to be able to conceptualise what you want to write, or to 
 
 ## How many words in the file?
 
-It's useful to know how many words are in a file and essential when writing essays for school and further education, or articles for websites, news services or magazines.
+It's useful to know how many words are in a file as you're writing. This can be a requirement when writing school essays or articles for other people.
 
 The *Wordcount* package inserts two running counters in the Pulsar-edit toolbar:
 * total words
@@ -54,7 +52,7 @@ The *Wordcount* package inserts two running counters in the Pulsar-edit toolbar:
 
 ## Single source content then output to other formats
 
-One of my bugbears is being forced to wrestle with software to perform a task rather than doing the job of writing the content.
+One of my bugbears is being forced to wrestle with software to perform a task rather than doing the job of writing the content. That's one of many reasons I've been writing content (almost) exclusively in Pulsar Edit (plus predecessor Atom edit) for half a decade.
 
 But the world is in love with MS Word, Content Management Systems, and site builders like Jekyll or Hugo. So what's a writer to do?
 
@@ -68,6 +66,8 @@ Ironically enough, because Pandoc is so powerful I've found it complicated to us
 * [Pandoc interface YAML](https://web.pulsar-edit.dev/packages/pandoc-interface-yaml) makes the process **far** easier by allowing you to add Pandoc settings as YAML at the top of any file you wish to convert.
 
 IMPORTANT: I also needed to [install Python](https://www.python.org/downloads/) to make the packages work.
+
+* [Learn how they're used to convert Markdown to docx format](/https://github.com/ljsinclair/ljsinclair/blob/main/pulsar-edit/markdown-to-doc.md)
 
 ## But I just want to output to PDF!
 
@@ -136,3 +136,8 @@ Then add the following to the end of the Stylesheet.
   }
 }
 ```
+
+## See also
+
+* [Pulsar content-writing packages](https://github.com/ljsinclair/ljsinclair/blob/main/pulsar-edit/pulsar-techwriter-packages.md)
+* [Pulsar essential packages](https://github.com/ljsinclair/ljsinclair/blob/main/pulsar-edit/pulsar-essential-packages.md)
