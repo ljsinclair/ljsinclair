@@ -2,7 +2,7 @@
 
 I've been using Pulsar edit (and predecessor Atom edit) to write markdown content for about five years and have found these packages essential to my workflow.
 
-See also [pulsar essential packages](https://github.com/ljsinclair/ljsinclair/blob/main/pulsar-edit/pulsar-essential-writers.md)
+They're in addition to the [pulsar essential packages](https://github.com/ljsinclair/ljsinclair/blob/main/pulsar-edit/pulsar-essential-writers.md) I also use.
 
 ## Core packages that are really useful
 
@@ -18,7 +18,7 @@ Search a file that's open or all files in the project.
 
 This is a nice core feature and you can choose a locale (regional language), plus the system allows you to add words to the local dictionary.
 
-* [https://web.pulsar-edit.dev/packages/spell-check]
+* [Spell check package](https://web.pulsar-edit.dev/packages/spell-check)
 
 ## Add footnotes with ease
 
@@ -33,15 +33,18 @@ Footnotes are Pandoc ready, and also work on Github.
 
 ## Conceptualising ideas with a mind-map
 
-Mind mapping tools can be cumbersome and tend to be stuffed with features that IMO get in the way of the job of conceptualising ideas.
+Sometimes it's useful to be able to conceptualise what you want to write, or to verify existing content is in a logical order. Mind maps are one way to do this, but many of the tools are stuffed with features which IMO get in the way of doing the task.
 
-*Markdown mindmap* makes this much simpler. Every heading level represents a node in a tree and you can create mindmaps on the fly in new markdown files, or use the package to create a mindmap from an existing file.
+*Markdown mindmap* makes this much simpler and allows you to:
+
+* Add headings to a new markdown file to build your structure
+* Create a mind-map view of an existing markdown file, a little like Outline view in MS Word.
 
 * [Markdown mindmap](https://web.pulsar-edit.dev/packages/markdown-mindmap)
 
 ## How many words in the file?
 
-Wordcount is sometimes essential when writing content such as articles or essays, but it's also useful to know when writing in general.
+It's useful to know how many words are in a file and essential when writing essays for school and further education, or articles for websites, news services or magazines.
 
 The *Wordcount* package inserts two running counters in the Pulsar-edit toolbar:
 * total words
@@ -59,14 +62,12 @@ But the world is in love with MS Word, Content Management Systems, and site buil
 
 * [Learn about Pandoc](https://pandoc.org/)
 
-However, I've avoided Pandoc until now because ironically enough, it's **so** powerful that it's extremely complex, and thus got in the way of doing the writing.
-
-*Pandoc Convert Plus* coupled with *Pandoc interface YAML* fixed this problem for me.
-
-NOTE: You'll also need to [install Python](https://www.python.org/downloads/) to make the packages work.
+Ironically enough, because Pandoc is so powerful I've found it complicated to use, and I avoided it until I discovered *Pandoc Convert Plus* and *Pandoc interface YAML*.
 
 * [Pandoc Convert Plus](https://web.pulsar-edit.dev/packages/pandoc-convert-plus) allows you to use Pandoc from within Pulsar edit.
 * [Pandoc interface YAML](https://web.pulsar-edit.dev/packages/pandoc-interface-yaml) makes the process **far** easier by allowing you to add Pandoc settings as YAML at the top of any file you wish to convert.
+
+IMPORTANT: I also needed to [install Python](https://www.python.org/downloads/) to make the packages work.
 
 ## But I just want to output to PDF!
 
@@ -86,7 +87,7 @@ Some people find autocomplete useful, but I find it distracting.
 
 ### Copy blank line
 
-I don't know what the use case for this is, but it's possible to copy blank lines accidentally.
+I don't know what the use case for this is, but it's possible to accidentally copy blank lines.
 
 Switch this off in the keymap settings which are accessed:
 
@@ -105,7 +106,7 @@ Then paste following at bottom and save.
 
 There's been a strange obsession in applications over the past few years to remove, hide or make scrollbars so narrow they're virtually useless.
 
-Here's how to turn them on by default and widen them so they're functional.
+Here's how to turn them on by default in Pulsar edit, and widen them so they're functional.
 
 First, edit the stylesheet:
 * on Windows -- File > Stylesheet
@@ -135,6 +136,3 @@ Then add the following to the end of the Stylesheet.
   }
 }
 ```
-
----
-[^7837]: In short, I like to keep things simple.
