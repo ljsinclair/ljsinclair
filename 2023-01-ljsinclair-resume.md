@@ -10,11 +10,9 @@ title: 'Lisa Sinclair - Writer'
 
 ## Overview
 
-Lisa is a professional writer and communicator with two decades of experience in the field. She's written content for non-profit organizations, IT start-ups, and big IT companies, plus freelanced for blogs, online magazines and print media.
+Lisa has spent two decades turning complex ideas into clear, accessible content for a variety of audiences.
 
-She turns complex, difficult to understand ideas into easy to understand content by performing critical analysis, research and carefully interviewing subject matter experts.
-
-Lisa has experience writing content using traditional tools such as MS Word, and has embraced the “Docs-as-Code” approach which integrates more easily with software development workflows and makes writing, source control, content reviews and deployment easier.
+She has experience writing content using traditional tools such as MS Word and RoboHelp, and Wiki systems such as Confluence and Zendesk Guide. Her speciality is "Docs-as-code", which utilises a software development environment to write, version-control, review and deploy content.
 
 ## Core competencies
 
