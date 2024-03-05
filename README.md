@@ -5,6 +5,10 @@ You can find a full breakdown and summary of past projects and work on my Linked
 * [LJ Sinclair on Linkedin](https://www.linkedin.com/in/ljsinclair/)
 * [Contact me via email](mailto:projects@ljsinclair.net)
 
+## Current projects
+
+* [FeatureBase Help](https://docs.featurebase.com)
+
 ## My tools
 
 * [Pulsar edit](https://github.com/ljsinclair/ljsinclair/tree/main/pulsar-edit)
